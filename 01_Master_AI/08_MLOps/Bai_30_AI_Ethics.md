@@ -6,6 +6,9 @@
 - Hiểu EU AI Act và các framework quản lý AI
 - Xây dựng quy trình Responsible AI trong tổ chức
 
+## 📖 Câu chuyện đời thường
+> Một ngân hàng dùng AI để duyệt hồ sơ vay. Bất ngờ, hệ thống từ chối gần hết hồ sơ từ một khu vực nhất định — không phải vì họ không đủ điều kiện, mà vì data huấn luyện có **bias** từ lịch sử. Đó là vấn đề **fairness**. **Explainable AI** giống như bạn yêu cầu ngân hàng giải thích: "Tại sao từ chối tôi?" — thay vì chỉ nói "AI quyết định", họ phải chỉ ra lý do cụ thể (SHAP: thu nhập thấp chiếm 40%, tuổi chiếm 20%...). **EU AI Act** giống như luật an toàn thực phẩm với AI — bắt buộc "ghi rõ thành phần" và đảm bảo không gây hại.
+
 ---
 
 ## 1. Bias trong AI

@@ -6,6 +6,9 @@
 - Security program management (CTO perspective)
 - Vendor & third-party risk management
 
+## 📖 Câu chuyện đời thường
+> Bạn là hiệu trưởng một trường học. **Security culture** không phải chỉ thuê bảo vệ mà dạy mọi giáo viên + học sinh biết phòng cháy chữa cháy. **DevSecOps** = không để kiểm tra an toàn ở cuối năm mà lồng vào mỗi buổi học: mỗi lần viết code là một lần kiểm tra bảo mật. **Vendor risk** giống chọn nhà cung cấp thức ăn cho canteen: họ có giấy chứng nhận vệ sinh không? nếu họ bị sự cố thì mình ảnh hưởng ra sao? CTO phải nghĩ về an ninh như hiệu trưởng nghĩ về an toàn: không phải việc của riêng bảo vệ, mà là văn hóa của cả trường.
+
 ---
 
 ## 1. Security Culture

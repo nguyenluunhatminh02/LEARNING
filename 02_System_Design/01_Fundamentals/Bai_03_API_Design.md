@@ -5,6 +5,9 @@
 - Hiểu GraphQL và gRPC
 - Biết khi nào dùng loại nào
 
+## 📖 Câu chuyện đời thường
+> API giống như **thực đơn** của một nhà hàng. Khách (client) không vào bếp tự nấu mà gọi món qua thực đơn (API). **REST** giống thực đơn truyền thống: mỗi món có tên rõ ràng (GET /pho, POST /order). **GraphQL** giống buffet tự chọn: khách nói chính xác muốn gì ("cho tôi tên món và giá, không cần mô tả") — không thừa không thiếu. **gRPC** giống như hệ thống liên lạc nội bộ giữa các bếp (ía mã, cực nhanh) — phù hợp cho microservices nói chuyện với nhau, không cần đẹp mà cần nhanh.
+
 ---
 
 ## 1. REST API Design

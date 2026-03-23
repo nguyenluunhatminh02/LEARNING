@@ -5,6 +5,9 @@
 - Hiểu TensorFlow/Keras
 - Biết khi nào dùng framework nào
 
+## 📖 Câu chuyện đời thường
+> Nếu bạn nấu ăn, bạn có thể làm mọi thứ bằng tay (NumPy) — nhưng mất cả ngày. Hoặc bạn dùng nồi chiên không dầu, lò nướng thông minh — đó là **framework**. **PyTorch** giống như nấu ăn ở nhà — bạn kiểm soát từng bước, muốn thay đổi công thức lúc nào cũng được (dynamic graph). **TensorFlow** giống như máy nấu cơm tự động trong nhà máy — bạn thiết lập công thức một lần, rồi nó chạy rất nhanh, rất ổn định ở quy mô lớn (production). Nghiên cứu → PyTorch. Sản xuất → TensorFlow. Nhiều người giời dùng cả hai.
+
 ---
 
 ## 1. PyTorch — Framework chính

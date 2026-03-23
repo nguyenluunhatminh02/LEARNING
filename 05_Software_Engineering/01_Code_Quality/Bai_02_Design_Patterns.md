@@ -5,6 +5,9 @@
 - Khi nào dùng pattern nào
 - Anti-patterns to avoid
 
+## 📖 Câu chuyện đời thường
+> Design Patterns giống như **công thức nấu ăn đã được chứng minh**. Bạn không cần phát minh lại cách nấu phở — có công thức sẵn rồi. **Singleton** giống giám đốc công ty — chỉ có duy nhất 1 người. **Factory** giống tiệm bánh: nói "cho 1 bánh chocolate", tiệm tự biết cách làm. **Observer** giống đăng ký nhận thông báo YouTube: khi có video mới, tất cả subscriber đều được báo. **Strategy** giống chọn cách đi làm: hôm nay xe máy, mai trời mưa đi Grab, mốt đi bus — cùng mục đích (di chuyển) nhưng chiến lược khác nhau. **Anti-pattern** = công thức sai mà nhiều người hay mắc.
+
 ---
 
 ## 1. Creational Patterns

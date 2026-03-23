@@ -6,6 +6,9 @@
 - PostgreSQL replication setup
 - Vitess, Citus for sharding
 
+## 📖 Câu chuyện đời thường
+> Bạn có một cuốn sách công thức nấu ăn tuyệt vời. **Replication** = photo thêm 3 bản đặt ở 3 nhà khác nhau: nếu 1 nhà cháy, vẫn còn 2 bản (fault tolerance). Nhiều người có thể đọc cùng lúc (read scaling). **Sharding** = chia sách thành 3 tập: Món Việt (shard 1), Món Nhật (shard 2), Món Âu (shard 3). Mỗi tập nhỏ hơn, tra nhanh hơn. **Consistent Hashing** là cách quyết định "món này thuộc tập nào" mà khi thêm tập mới, không cần chuyển hết công thức — chỉ chuyển một phần nhỏ.
+
 ---
 
 ## 1. Replication

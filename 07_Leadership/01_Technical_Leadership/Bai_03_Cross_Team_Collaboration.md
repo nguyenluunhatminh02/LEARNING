@@ -6,6 +6,9 @@
 - Conflict resolution
 - Building consensus at scale
 
+## 📖 Câu chuyện đời thường
+> Bạn là kiến trúc sư xây chung cư, cần phối hợp nhiều nhà thầu: điện, nước, xây dựng, nội thất. **Cross-team dependency** = đội điện chưa xong thì đội nội thất không làm được. **Conflict resolution** = đội điện nói "phải đục tường", đội xây dựng nói "không được" — bạn tìm giải pháp cả 2 chấp nhận. **Building consensus** là hỌp 4 đội lại, vẽ timeline chung, mỗi đội biết mình cần giao gì lúc nào. Không có alignment, mỗi đội làm theo ý mình — ống nước đâm vào dây điện.
+
 ---
 
 ## 1. Cross-Team Dependencies

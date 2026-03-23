@@ -6,6 +6,9 @@
 - Shortest path (Dijkstra)
 - Topological Sort, Union-Find
 
+## 📖 Câu chuyện đời thường
+> **Graph** giống bản đồ thành phố: ngã tư là node, đường là edge. **BFS** giống như cảnh sát tìm người mất: lan toả từ điểm cuối cùng thấy người đó, kiểm tra tất cả ngã tư xung quanh trước rồi mới ra xa. **Dijkstra** giống Google Maps tìm đường ngắn nhất: tính thời gian đến từng ngã tư và luôn chọn đường nhanh nhất. **Topological Sort** giống lịch học: muốn học Calculus 2 phải học Calculus 1 trước — sắp xếp các môn theo thứ tự điều kiện tiên quyết. **Union-Find** giống như tìm xem 2 người có chung bạn bè (cùng nhóm) không.
+
 ---
 
 ## 1. Graph Representation

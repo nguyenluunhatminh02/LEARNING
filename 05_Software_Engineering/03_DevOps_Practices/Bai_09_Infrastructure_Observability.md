@@ -5,6 +5,9 @@
 - Monitoring, Logging, Tracing (3 trụ cột observability)
 - Alerting & Incident Response
 
+## 📖 Câu chuyện đời thường
+> Bạn quản lý một đội xe gửi hàng. **Monitoring** = GPS trên mỗi xe: biết xe ở đâu, tốc độ bao nhiêu. **Logging** = sổ nhật ký hành trình: ghi lại mọi điểm dừng, lúc nào giao hàng. **Tracing** = theo dõi một kiện hàng cụ thể từ kho đến tay khách: "đơn 123 đang ở kho HN → lên xe A → đến trạm B → giao cho khách". **Alerting** = chuông báo: "xe số 5 dừng quá 10 phút!" **IaC (Terraform)** giống bản vẽ cửa hàng: mô tả cần bao nhiêu xe, bao nhiêu kho — và máy tự động tạo ra.
+
 ---
 
 ## 1. Infrastructure as Code (IaC)

@@ -5,6 +5,9 @@
 - Versioning, pagination, error handling
 - Idempotency, backward compatibility
 
+## 📖 Câu chuyện đời thường
+> API giống hợp đồng giữa 2 công ty. **Versioning** giống như phiên bản hợp đồng: khi cập nhật điều khoản, bạn tạo v2 mới nhưng vẫn hỗ trợ v1 cho đối tác chưa cập nhật. **Pagination** giống đọc sách theo trang: không ai đưa bạn cả 10.000 trang cùng lúc, mà đưa từng chương (page=1, size=20). **Error handling** giống chẩn đoán bệnh: nói rõ "404 = không tìm thấy" chứ không phải chỉ nói "lỗi". **Backward compatibility** là cam kết: "tôi thêm món mới vào menu nhưng không xóa món cũ" — khách cũ vẫn gọi được món yêu thích.
+
 ---
 
 ## 1. RESTful Maturity Model (Richardson)

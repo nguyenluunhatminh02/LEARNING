@@ -5,6 +5,9 @@
 - Classic DP patterns
 - Multi-dimensional DP
 
+## 📖 Câu chuyện đời thường
+> Bạn leo cầu thang 100 bậc. Mỗi lần bước được 1 hoặc 2 bậc. "Có bao nhiêu cách leo?". Nếu tính brute force, bạn thử tất cả tổ hợp — vũ trụ huỷ diệt vẫn chưa xong. **Dynamic Programming** là nhận ra: số cách đến bậc 10 = số cách đến bậc 9 + số cách đến bậc 8 (vì từ 9 bước 1, từ 8 bước 2). Bạn ghi chép kết quả đã tính (**memoization**) để không tính lại. Giống như khi tính tiền đi chợ: thay vì cộng lại từ đầu mỗi lần thêm món, bạn ghi tổng hiện tại và chỉ cộng thêm món mới.
+
 ---
 
 ## 1. DP Framework

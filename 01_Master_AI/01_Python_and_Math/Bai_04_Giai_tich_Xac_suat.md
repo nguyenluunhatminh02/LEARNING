@@ -5,6 +5,9 @@
 - Hiểu xác suất, phân phối — nền tảng của nhiều thuật toán ML
 - Liên kết toán học với ứng dụng thực tế trong AI
 
+## 📖 Câu chuyện đời thường
+> Bạn đang leo núi trong sương mù dày đặc, không nhìn thấy đỉnh. Cách duy nhất để lên đỉnh là **sờ mặt đất xung quanh** và bước theo hướng dốc lên cao nhất — đó chính là **gradient** (đạo hàm). Mỗi bước bạn đi chính là một lần cập nhật weight trong neural network. Còn **xác suất** thì giống như dự báo thời tiết: "70% mưa" không có nghĩa chắc chắn mưa, nhưng bạn nên mang ô. Tương tự, khi model nói "90% đây là mèo", nó đang dựa trên phân phối xác suất đã học được từ hàng triệu ảnh.
+
 ---
 
 ## PHẦN 1: Giải tích (Calculus)

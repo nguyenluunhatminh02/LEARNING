@@ -5,6 +5,9 @@
 - HTTPS, TLS
 - WebSocket cho real-time
 
+## 📖 Câu chuyện đời thường
+> Gửi thư và gọi điện thoại. **TCP** giống như gửi thư bảo đảm — bưu điện xác nhận đã giao, nếu mất thì gửi lại. **UDP** giống gọi điện — nói xong là xong, không quan tâm có nghe rõ không (phù hợp cho video call, game). **DNS** giống danh bạ điện thoại: bạn gõ "google.com" (tên), DNS tra ra số IP thật (số điện thoại). **HTTPS** là gửi thư trong phong bì khóa mã — chỉ người nhận mới mở được. **WebSocket** là đường dây nóng — kết nối mở suốt, 2 bên nói chuyện qua lại bất cứ lúc nào.
+
 ---
 
 ## 1. TCP vs UDP

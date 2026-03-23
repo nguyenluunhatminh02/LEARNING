@@ -5,6 +5,9 @@
 - PPO — thuật toán phổ biến nhất
 - RLHF — dùng trong LLM alignment
 
+## 📖 Câu chuyện đời thường
+> Giờ chú chó của bạn không chỉ nhặt bóng mà học cả những trò phức tạp. **Policy Gradient** là khi bạn thưởng/phạt trực tiếp cho hành động: nhảy qua vòng lửa đẹp → thưởng lớn, nhảy lỗ → không có gì. **Actor-Critic** giống như huấn luyện viên + trọng tài: Actor (chú chó) hành động, Critic (đánh giá viên) chấm điểm và góp ý. **PPO** là chiến lược "thận trọng" — không cho chú chó thay đổi quá nhiều một lúc, từng bước cải thiện. **RLHF** là khi ChatGPT học từ phản hồi của con người: người dùng nói câu trả lời A hay hơn B, AI tự điều chỉnh để lần sau trả lời giống A hơn.
+
 ---
 
 ## 1. Policy Gradient

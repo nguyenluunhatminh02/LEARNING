@@ -5,6 +5,9 @@
 - Hiểu Image Segmentation: U-Net, Mask R-CNN
 - Thực hành với Ultralytics YOLOv8
 
+## 📖 Câu chuyện đời thường
+> Bạn đang xem ảnh gia đình chụp tết. **Classification** là trả lời "ảnh này có người không?" — Yes/No. **Detection** là không chỉ nói có, mà còn vẽ khung quanh từng người: "bố ở đây, mẹ ở kia" (bounding box). **Segmentation** còn chi tiết hơn: tô màu chính xác từng pixel thuộc về ai — như khi bạn dùng Photoshop cắt người ra khỏi nền. **YOLO** giống như người nhìn nhanh một lượt — "1 giây là biết hết ai ở đâu" (You Only Look Once). Faster R-CNN thì cẩn thận hơn: nhìn qua một lượt, đánh dấu vùng nghi ngờ, rồi mới phân tích kỹ từng vùng.
+
 ---
 
 ## 1. Object Detection

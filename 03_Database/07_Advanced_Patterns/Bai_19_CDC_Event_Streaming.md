@@ -6,6 +6,9 @@
 - Apache Kafka as data backbone
 - CQRS (Command Query Responsibility Segregation)
 
+## 📖 Câu chuyện đời thường
+> Bạn có một sổ tài khoản ngân hàng (database). **CDC** giống như dịch vụ thông báo SMS mỗi lần có giao dịch: khi số dư thay đổi, hệ thống tự động gửi thông báo cho các app khác (analytics, search, cache). **Event Sourcing** giống sổ cái kế toán: thay vì chỉ ghi "số dư: 10 triệu", bạn ghi mọi giao dịch: "+5tr, -2tr, +7tr" — bất cứ lúc nào cũng tính lại được, và biết chính xác chuyện gì đã xảy ra. **CQRS** giống như tách quầy gửi tiền và quầy tra cứu: quầy gửi (write) cần chính xác, quầy tra (read) cần nhanh — 2 quầy tối ưu khác nhau.
+
 ---
 
 ## 1. Tại sao cần CDC?

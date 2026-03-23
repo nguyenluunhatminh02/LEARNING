@@ -4,6 +4,9 @@
 - Thiết kế Video Streaming Platform (YouTube)
 - Thiết kế Search Engine (Google-like)
 
+## 📖 Câu chuyện đời thường
+> **Video Streaming** giống như một đài truyền hình cá nhân. Khi bạn xem phim, không ai gửi cả cuốn phim 1 lần (file quá lớn!). Thay vào đó, họ gửi từng đoạn nhỏ (chunk), và nếu WiFi chậm thì giảm chất lượng cho mượt (adaptive bitrate). Video được lưu ở nhiều độ phân giải (360p, 720p, 1080p) giống như có nhiều phiên bản ảnh: nhỏ cho điện thoại, lớn cho TV. **Search Engine** giống thư viện có hệ thống index: thay vì đọc từng cuốn sách để tìm từ "AI", bạn mở mục lục chủ đề và tra ngay — đó là inverted index.
+
 ---
 
 ## PART A: Video Streaming (YouTube)

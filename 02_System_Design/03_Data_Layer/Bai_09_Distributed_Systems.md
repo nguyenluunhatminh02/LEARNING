@@ -6,6 +6,9 @@
 - Distributed transactions (2PC, Saga)
 - Consistency models
 
+## 📖 Câu chuyện đời thường
+> Bạn là trưởng nhóm 5 người đang làm việc remote, mỗi người ở một thành phố khác nhau. Khi cần quyết định gì đó, bạn gửi tin nhắn và chờ đa số đồng ý — đó là **Consensus** (Raft). Vấn đề là: tin nhắn có thể mất, người có thể offline, 2 người sửa cùng 1 file đồng thời — đây là **challenges of distributed systems**. **2PC** giống như đám cưới: bước 1 hỏi cả 2 bên "có đồng ý không?", bước 2 nếu cả 2 nói "có" thì mới ký. **Saga** giống đặt tour du lịch: đặt vé máy bay → đặt khách sạn → đặt xe. Nếu khách sạn hết phòng thì hủy vé máy bay (compensating action).
+
 ---
 
 ## 1. Challenges of Distributed Systems

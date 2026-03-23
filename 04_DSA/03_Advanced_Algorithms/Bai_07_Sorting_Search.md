@@ -5,6 +5,9 @@
 - Binary Search variants
 - Search in rotated/matrix arrays
 
+## 📖 Câu chuyện đời thường
+> Bạn có 100 lá bài cần sắp theo số. **Bubble Sort** = so sánh 2 lá cạnh nhau, đổi nếu sai — đơn giản nhưng chậm. **Merge Sort** = chia đông bài thành 2 nửa, sắp từng nửa rồi ghép lại — nhanh và ổn định. **Quick Sort** = chọn 1 lá làm mốc, chia làm 2 nhóm: nhỏ hơn mốc và lớn hơn mốc. **Binary Search** giống trò chơi "đoán số": "Đoán 50?" "Cao quá" "25?" "Thấp quá" "37?" "Gần rồi!" — mỗi lần loại nửa không gian, chỉ cần ~7 lần đoán trong 100 phần tử.
+
 ---
 
 ## 1. Sorting

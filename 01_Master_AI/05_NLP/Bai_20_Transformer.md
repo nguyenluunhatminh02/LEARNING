@@ -5,6 +5,9 @@
 - Hiểu kiến trúc Transformer đầy đủ
 - Implement Transformer encoder từ đầu
 
+## 📖 Câu chuyện đời thường
+> Bạn đang học bài trong một cuốn sách dày. **RNN** đọc từ từ từ đầu đến cuối — đến trang 100 thì quên mất trang 1. **Self-Attention** thì khác: giống như bạn đọc một câu và mắt bạn tự động nhảy đến những từ liên quan. Ví dụ: "Con **mèo** ngồi trên bàn, **nó** rất lười" — mắt bạn tự nối "nó" với "mèo" dù cách xa nhau. **Multi-Head Attention** giống như đọc cùng một câu nhưng từ nhiều góc nhìn: head 1 nhìn ngữ pháp, head 2 nhìn ngữ nghĩa, head 3 nhìn cảm xúc. Transformer = nhiều người đọc song song, mỗi người chú ý một khía cạnh — nhanh và hiểu sâu hơn đọc tuần tự.
+
 ---
 
 ## 1. Self-Attention — Cơ chế cốt lõi

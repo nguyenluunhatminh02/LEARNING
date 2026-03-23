@@ -6,6 +6,9 @@
 - Diversity & inclusion in hiring
 - Onboarding for success
 
+## 📖 Câu chuyện đời thường
+> Tuyển người giống chọn cầu thủ cho đội bóng. Bạn không chỉ xem kỹ thuật cá nhân mà còn xem: họ có phối hợp tốt không? tinh thần đồng đội ra sao? **Hiring bar** = tiêu chuẩn tối thiểu: không hạ chuẩn chỉ vì thiếu người, vì 1 người yếu kéo cả đội xuống. **Diversity** = đội toàn tiền vệ không ai giữ khung thành được — cần người đa dạng vị trí. **Onboarding** giống tuần đầu đi học: nếu không ai chỉ lớp học ở đâu, bạn sẽ rất bối rối. Onboarding tốt = nhân viên mới tự tin nhanh hơn.
+
 ---
 
 ## 1. Interview Process Design

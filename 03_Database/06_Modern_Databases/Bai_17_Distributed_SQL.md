@@ -6,6 +6,9 @@
 - CAP Theorem trong thực tế
 - Khi nào dùng, khi nào KHÔNG dùng
 
+## 📖 Câu chuyện đời thường
+> Bạn có 1 chi nhánh ngân hàng nhỏ (PostgreSQL ơ 1 server). Dân đông lên → cần mở 10 chi nhánh trên 10 thành phố (distributed). Vấn đề: làm sao 10 chi nhánh có data giống nhau? Khi khách chuyển tiền từ chi nhánh HN sang SG, cả 2 phải đồng bộ. **Distributed SQL** (CockroachDB, Spanner) giải quyết: dùng như SQL thường nhưng data tự động nhân bản và đồng bộ giữa các server. Google Spanner thậm chí dùng đồng hồ nguyên tử (TrueTime) để đảm bảo mọi chi nhánh trên toàn cầu đồng bộ. Tuy nhiên, không phải ai cũng cần ngân hàng toàn cầu — nếu chỉ cần 1 chi nhánh, dùng PostgreSQL cho đơn giản.
+
 ---
 
 ## 1. Vấn đề mà NewSQL giải quyết

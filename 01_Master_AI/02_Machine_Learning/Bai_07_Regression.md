@@ -5,6 +5,9 @@
 - Hiểu Loss function, Normal Equation, Gradient Descent
 - Regularization: Ridge, Lasso, Elastic Net
 
+## 📖 Câu chuyện đời thường
+> Bạn muốn dự đoán giá nhà ở Quận 7. Bạn biết rằng diện tích càng lớn thì giá càng cao, nhưng bao nhiêu? Bạn lấy dữ liệu 50 căn nhà đã bán, vẽ lên giấy: trục x là diện tích, trục y là giá. Rồi kẻ một đường thẳng "vừa vặn nhất" xuyên qua các điểm — đó chính là **Linear Regression**. Đường thẳng này cho bạn biết: "căn nhà 80m² có lẽ giá khoảng 5 tỷ". **Regularization** giống như bạn tự nhắc mình: "đừng tin quá vào dữ liệu, có căn nào giá bất thường do chủ nhà nóng vội bán" — giúp đường dự đoán không bị "ngoằn nghoèo" vì dữ liệu nhiễu.
+
 ---
 
 ## 1. Linear Regression

@@ -7,6 +7,9 @@
 - Specialized: Pinecone, Weaviate, Milvus, Qdrant
 - RAG pattern with vector DB
 
+## 📖 Câu chuyện đời thường
+> Bạn vào cửa hàng nước hoa và nói: "Tôi muốn mùi giống loại này nhưng nhẹ hơn". Bạn không tìm theo tên (keyword search) mà theo **cảm nhận** (similarity search). Vector DB làm đúng việc này: mỗi chai nước hoa được mã hóa thành một dãy số (embedding) thể hiện "bản chất" của nó. Khi bạn nói "giống loại này", hệ thống tìm các vector gần nhất trong không gian đa chiều. Đây là công nghệ đằng sau **RAG**: khi bạn hỏi ChatGPT về tài liệu công ty, nó tìm đoạn văn bản có "ý nghĩa gần nhất" với câu hỏi của bạn.
+
 ---
 
 ## 1. Tại sao Vector Database là must-know cho CTO?

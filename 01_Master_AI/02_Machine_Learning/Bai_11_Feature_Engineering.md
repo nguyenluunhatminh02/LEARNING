@@ -5,6 +5,9 @@
 - Tạo features tốt — kỹ năng quan trọng nhất của ML Engineer
 - Hyperparameter tuning chiến lược
 
+## 📖 Câu chuyện đời thường
+> Bạn nấu phở. Nguyên liệu thô (data thô) là xương, thịt, hành, gừng. Nhưng đầu bếp giỏi không chỉ cho vào nồi — họ biết **chế biến**: hầm xương 6 tiếng, nướng hành cho thơm, thái thịt đúng độ dày. Đó chính là **Feature Engineering** — biến dữ liệu thô thành "nguyên liệu đã sơ chế" để model học tốt hơn. Missing values giống như hết hành → thay bằng hành tây (imputation). Scaling giống như đoạn "cân lại gia vị" — không để một vị nào lấn át. Hyperparameter tuning là chỉnh lửa to nhỏ cho đến khi nước dùng hoàn hảo.
+
 ---
 
 ## 1. Xử lý Missing Data

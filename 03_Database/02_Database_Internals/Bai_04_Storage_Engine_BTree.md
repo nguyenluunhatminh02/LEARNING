@@ -6,6 +6,9 @@
 - Write-Ahead Log (WAL)
 - Pages, buffer pool
 
+## 📖 Câu chuyện đời thường
+> Bạn có một kho sách khổng lồ. **B-Tree** giống như hệ thống kệ sách của thư viện: sách được sắp xếp theo chủ đề, trong mỗi chủ đề theo tên tác giả — bạn có thể tìm nhanh bất kỳ cuốn nào. **LSM-Tree** giống như bạn ghi chép vào giấy nháp trước (nhanh!), rồi cuối ngày mới sắp xếp lại vào kệ — ghi nhanh nhưng tìm chậm hơn. **WAL** giống như cuốn sổ nhật ký: trước khi xếp sách lên kệ, bạn ghi lại "sẽ đặt cuốn X ở ngăn Y" — nếu mất điện giữa chừng, bạn biết làm tiếp từ đâu. **Buffer pool** là bàn làm việc: đặt sách đang dùng lên bàn cho khỏi phải vào kho lấy lại.
+
 ---
 
 ## 1. Data Storage on Disk

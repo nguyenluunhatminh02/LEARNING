@@ -5,6 +5,9 @@
 - Biết các kiến trúc: LeNet → AlexNet → VGG → ResNet → EfficientNet
 - Implement CNN trong PyTorch
 
+## 📖 Câu chuyện đời thường
+> Hãy tưởng tượng bạn là thám tử xem ảnh hiện trường. Bạn không nhìn cả bức ảnh cùng lúc mà dùng một **kính lúp** (filter/kernel) quét từ góc này sang góc khác: đầu tiên tìm cạnh viền (edges), rồi nhận ra hình dạng (shapes), cuối cùng mới kết luận "có một chiếc xe" — đó chính là cách **CNN** hoạt động: các layer đầu tìm cạnh, layer giữa tìm hình dạng, layer cuối nhận vật thể. **Pooling** giống như bạn lùi ra xa để nhìn bức ảnh nhỏ lại — bỏ bớt chi tiết vụn nhưng vẫn nhận ra đối tượng chính. **ResNet** giải quyết vấn đề "nhìn quá sâu thì quên mất bức tranh tổng thể" bằng cách luôn giữ một bản sao gốc để so sánh.
+
 ---
 
 ## 1. Convolution Layer

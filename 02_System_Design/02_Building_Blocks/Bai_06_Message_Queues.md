@@ -6,6 +6,9 @@
 - Event-driven vs Request-driven architecture
 - Pub/Sub pattern, Event Sourcing
 
+## 📖 Câu chuyện đời thường
+> Bạn đến quán trà sữa và gọi món. Thay vì đứng đợi trước quầy cho đến khi làm xong, bạn được đưa một **số thứ tự** và ngồi chờ. Lúc nào xong thì gọi số. Tấm phiếu số đó chính là **Message Queue** — tách rời người đặt (producer) và người pha (consumer). Khách đông cũng không sao — phiếu xếp hàng, pha đến đâu thì pha. **Kafka** giống hệ thống speaker của sân bay — thông báo tới tất cả mọi người (pub/sub). **Event Sourcing** là ghi lại mọi đơn hàng từ đầu đến giờ thay vì chỉ ghi số dư hiện tại.
+
 ---
 
 ## 1. Tại sao cần Message Queue?

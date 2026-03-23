@@ -5,6 +5,9 @@
 - Hiểu Diffusion Models & Stable Diffusion
 - Sinh ảnh bằng cả 2 phương pháp
 
+## 📖 Câu chuyện đời thường
+> **GAN** giống như cuộc chiến giữa người làm tiền giả (Generator) và cảnh sát (Discriminator). Người làm tiền giả cố tạo tiền giống thật, cảnh sát cố phân biệt. Hai bên cạnh tranh, cả hai đều giỏi lên — cuối cùng người làm tiền giả tạo ra thứ gần như thật. **Diffusion Model** thì khác: giống như bạn có một bức ảnh đẹp, rồi từ từ rắc cát lên cho đến khi chỉ còn nhiễu (noise). Model học cách **gỡ cát từng lớp** để khôi phục ảnh gốc. Khi muốn tạo ảnh mới, bạn chỉ cần đưa cho nó một đống cát ngẫu nhiên và nói: "hãy biến đống cát này thành bức ảnh một chú mèo" — và Stable Diffusion sẽ làm được!
+
 ---
 
 ## 1. GAN (Generative Adversarial Network)

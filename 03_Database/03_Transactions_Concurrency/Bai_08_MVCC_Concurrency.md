@@ -6,6 +6,9 @@
 - VACUUM & bloat
 - Lock types
 
+## 📖 Câu chuyện đời thường
+> Bạn làm việc trên Google Docs cùng đồng nghiệp. **MVCC** giống như mỗi người được nhìn thấy một "phiên bản tại thời điểm họ mở file" — dù người khác đang sửa, bạn vẫn đọc được phiên bản cũ mà không bị chặn. PostgreSQL không xóa data cũ ngay mà giữ lại nhiều phiên bản. Vấn đề: phiên bản cũ chất đống như giấy vụn chưa vứt (**bloat**). **VACUUM** giống người dọn vệ sinh văn phòng — gốm giấy cũ đi. Nếu không dọn thường xuyên, văn phòng ngày càng chật và chậm. **Lock** giống biển "do not disturb" trên phòng khách sạn: "tôi đang sửa dòng này, xin chờ".
+
 ---
 
 ## 1. MVCC — Multi-Version Concurrency Control

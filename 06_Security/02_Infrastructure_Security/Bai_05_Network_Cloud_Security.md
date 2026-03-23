@@ -6,6 +6,9 @@
 - Zero Trust model
 - DDoS protection
 
+## 📖 Câu chuyện đời thường
+> **VPC** giống khuôn viên công ty có hàng rào: bên trong là mạng riêng, người ngoài không vào được. **Firewall** là bảo vệ giám sát cổng: chỉ cho vào người có giấy phép. **Zero Trust** là triết lý mới: "không tin ai cả, kể cả người trong công ty" — mỗi lần vào phòng đều phải quẹt thẻ, dù bảo vệ biết mặt bạn. **DDoS** giống 10.000 người kéo đến cửa hàng cùng lúc không mua gì — chỉ để chặn khách thật không vào được. DDoS protection là hệ thống phân biệt khách thật và khách giả trước cửa.
+
 ---
 
 ## 1. VPC & Network Segmentation

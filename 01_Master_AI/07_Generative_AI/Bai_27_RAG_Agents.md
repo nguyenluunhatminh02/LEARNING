@@ -5,6 +5,9 @@
 - LLM Agents: tool use, function calling
 - Xây dựng ứng dụng LLM production-ready
 
+## 📖 Câu chuyện đời thường
+> Bạn là một bác sĩ giỏi nhưng không thể nhớ hết mọi bệnh. Khi gặp ca khó, bạn **mở sách chuyên khoa tra cứu** rồi mới đưa ra đánh giá — đó chính là **RAG**: LLM không tự bịa ra câu trả lời mà tra cứu tài liệu (retrieval) trước khi trả lời (generation). **LLM Agents** thì như một trợ lý cá nhân có thể làm việc: không chỉ nói "bạn nên đặt vé máy bay" mà còn tự mở website, tìm chuyến bay, đặt vé giúp bạn (tool use). Function calling giống như bạn dạy trợ lý cách dùng điện thoại, máy tính, email — để họ tự xài khi cần.
+
 ---
 
 ## 1. RAG — Retrieval-Augmented Generation

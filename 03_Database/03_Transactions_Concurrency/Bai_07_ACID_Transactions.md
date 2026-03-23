@@ -6,6 +6,9 @@
 - Deadlocks — detect & prevent
 - Practical transaction patterns
 
+## 📖 Câu chuyện đời thường
+> Bạn chuyển tiền từ tài khoản A sang B. **Atomicity** = hoặc cả 2 việc thành công (A trừ, B cộng) hoặc không việc nào xảy ra — không có chuyện A mất tiền mà B chưa nhận. **Consistency** = số dư không bao giờ âm (luật của ngân hàng). **Isolation** = 2 người chuyển tiền cùng lúc không bị xung đột, giống 2 người ở 2 quầy giao dịch không thấy nhau. **Durability** = khi ngân hàng nói "thành công" thì dù mất điện, tiền vẫn ở đó. **Deadlock** giống 2 xe trong hẻ nhỏ đối đầu: không ai chịu lùi → kẹt cả 2.
+
 ---
 
 ## 1. ACID

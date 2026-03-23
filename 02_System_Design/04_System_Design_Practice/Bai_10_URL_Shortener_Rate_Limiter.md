@@ -6,6 +6,9 @@
 - Thiết kế Rate Limiter
 - Estimation, database design, scaling
 
+## 📖 Câu chuyện đời thường
+> **URL Shortener** giống như dịch vụ gửi hàng có mã vận đơn. Thay vì viết địa chỉ dài như "Số 123, đường ABC, phường X, quận Y, TP.HCM", bạn chỉ cần gửi mã "VN7X9K" — hệ thống tự tra ra địa chỉ đầy đủ. **Rate Limiter** giống như kiểm soát vào cửa hộp đêm: tối đa 200 người, ai đến sau phải chờ. Mục đích là bảo vệ hệ thống khỏi bị quá tải — dù có 10.000 người muốn vào cùng lúc, bạn vẫn kiểm soát được.
+
 ---
 
 ## PART A: URL Shortener (TinyURL)

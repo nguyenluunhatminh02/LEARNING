@@ -6,6 +6,9 @@
 - Cache eviction policies
 - Redis / Memcached thực hành
 
+## 📖 Câu chuyện đời thường
+> Bạn là học sinh, mỗi lần cần tra từ mới lại ra thư viện (database). Rất mất thời gian! Vì vậy bạn **ghi chép những từ hay gặp vào sổ tay nhỏ** (cache) để tra nhanh. **Cache eviction** là khi sổ tay đầy, bạn xóa từ nào lâu không dùng nhất (LRU) hoặc từ ít dùng nhất (LFU). **Write-through** = ghi và sổ tay và thư viện cùng lúc. **Write-back** = ghi vào sổ tay trước, lúc rảnh mới cập nhật thư viện (nhanh hơn nhưng rủi ro nếu mất sổ tay). Redis giống cuốn sổ tay siêu nhanh mà cả lớp dùng chung.
+
 ---
 
 ## 1. Tầng Cache trong hệ thống

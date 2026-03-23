@@ -6,6 +6,9 @@
 - RBAC vs ABAC
 - Session management & multi-factor auth
 
+## 📖 Câu chuyện đời thường
+> **Authentication** = xác minh "bạn là ai" (như xuất trình CMND ở cửa). **Authorization** = xác minh "bạn được làm gì" (nhân viên vào phòng làm việc OK, nhưng không vào phòng giám đốc). **OAuth 2.0** giống như bạn để người giúp việc dùng chung WiFi nhưng không đưa mật khẩu router — bạn tạo một "token tạm" có giới hạn. **JWT** giống vé xem phim: ghi rõ tên, phòng, gió, ghế — nhân viên chỉ cần xem vé không cần gọi lại quầy. **MFA** là "khóa 2 lới": có chìa khóa (password) còn cần mã OTP trên điện thoại nữa.
+
 ---
 
 ## 1. Authentication vs Authorization

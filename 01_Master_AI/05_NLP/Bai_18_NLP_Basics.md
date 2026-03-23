@@ -5,6 +5,9 @@
 - Biểu diễn văn bản: BoW, TF-IDF
 - Word Embeddings: Word2Vec, GloVe
 
+## 📖 Câu chuyện đời thường
+> Bạn vừa nhận được 1000 lá thư khiếu nại của khách hàng và cần phân loại nhanh. **Tokenization** là việc bạn tách mỗi lá thư thành từng từ riêng. **Stemming** là nhận ra "chạy", "chạy bộ" và "đang chạy" đều liên quan đến "chạy". **TF-IDF** giống như bạn tìm từ khóa quan trọng trong mỗi lá thư: từ "hoàn tiền" xuất hiện nhiều trong 1 lá thư nhưng hiếm ở các thư khác → từ này rất quan trọng. **Word2Vec** thì hay hơn: nó hiểu rằng "vua" và "hoàng hậu" gần nhau, "vua - đàn ông + phụ nữ ≈ hoàng hậu" — giống như bạn hiểu rằng các từ có "khoảng cách ý nghĩa" với nhau.
+
 ---
 
 ## 1. Text Preprocessing

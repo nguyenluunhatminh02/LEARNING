@@ -6,6 +6,9 @@
 - Concurrent data structures
 - Python GIL & workarounds
 
+## 📖 Câu chuyện đời thường
+> Bạn và 3 người bạn cùng dọn nhà (**multi-threading**). Ai làm việc riêng (quét sàn, lau bàn) thì nhanh lắm. Nhưng khi 2 người cùng muốn dùng cái xô (**race condition**), cần quy định ai dùng trước (**lock**). Nếu A chờ B trả xô và B chờ A trả giẻ lau — cả 2 đứng đực mãi (**deadlock**). **Async** giống như bạn vừa giặt đồ (bỏ vào máy giặt) vừa nấu cơm — không đứng đợi máy giặt xong mới làm việc khác. **Python GIL** giống cái xô duy nhất — dù có 4 người nhưng mỗi lúc chỉ 1 người dùng được.
+
 ---
 
 ## 1. Concurrency vs Parallelism

@@ -6,6 +6,9 @@
 - Aggregation pipeline
 - Schema design patterns
 
+## 📖 Câu chuyện đời thường
+> SQL giống bảng tính Excel: cột cố định, mọi hàng phải giống nhau. **MongoDB** giống như **tủ hồ sơ linh hoạt**: mỗi hồ sơ (document) có thể chứa thông tin khác nhau. Hồ sơ nhân viên A có "kỹ năng: [Python, Java]", nhân viên B có "chứng chỉ: [AWS, K8s]" — không cần ép vào cùng khuôn. **Aggregation Pipeline** giống dây chuyền lọc: hồ sơ đi qua bước "lọc phòng ban Kỹ thuật" → "nhóm theo cấp bậc" → "đếm số người" — mỗi bước biến đổi data một chút. Phù hợp khi data không có cấu trúc cố định, thay đổi nhiều, hoặc cần tốc độ viết nhanh.
+
 ---
 
 ## 1. Document Model

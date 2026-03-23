@@ -5,6 +5,9 @@
 - Q-Learning & SARSA
 - Giải quyết bài toán đơn giản với RL
 
+## 📖 Câu chuyện đời thường
+> Bạn dạy một chú chó nhặt bóng. Bạn không thể giải thích bằng lời, mà dùng **phần thưởng**: nhặt đúng → cho bánh (reward +1), chạy sai hướng → không có gì (reward 0). Sau nhiều lần, chú chó tự học được: "ở vị trí này, nên chạy hướng nào". Đó chính là **Reinforcement Learning**. **Policy** là "chiến lược" của chú chó: ở mỗi vị trí nên làm gì. **Value Function** là ước lượng: "đứng ở đây thì khả năng được thưởng là bao nhiêu?". **Q-Learning** là chú chó tự ghi sổ kinh nghiệm: "ở chỗ này, rẽ trái được 5 điểm, rẽ phải được 8 điểm → lần sau rẽ phải".
+
 ---
 
 ## 1. Khái niệm cốt lõi

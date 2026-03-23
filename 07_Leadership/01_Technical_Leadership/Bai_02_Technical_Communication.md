@@ -6,6 +6,9 @@
 - Stakeholder management
 - Written communication best practices
 
+## 📖 Câu chuyện đời thường
+> Bạn là bác sĩ giải thích bệnh cho bệnh nhân. Nếu nói thuật ngữ chuyên môn — bệnh nhân không hiểu. Nếu nói "phổi bị nhiễm khuẩn, cần uống thuốc 7 ngày" — hiểu ngay. Đó là kỹ năng **trình bày cho người không kỹ thuật**. **RFC** giống bản đề xuất phương án điều trị: vấn đề, các lựa chọn, khuyến nghị — gửi cho hội đồng góp ý trước khi làm. **Stakeholder management** là biết bệnh nhân (user), gia đình (PM), bảo hiểm (finance) cần nghe gì khác nhau.
+
 ---
 
 ## 1. Writing Design Documents / RFCs

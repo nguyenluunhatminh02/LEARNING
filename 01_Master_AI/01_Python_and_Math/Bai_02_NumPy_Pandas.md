@@ -5,6 +5,9 @@
 - Thành thạo Pandas cho phân tích dữ liệu bảng
 - Trực quan hóa dữ liệu với Matplotlib & Seaborn
 
+## 📖 Câu chuyện đời thường
+> Bạn là quản lý của một chuỗi siêu thị có 100 chi nhánh. Mỗi ngày bạn nhận được bảng doanh thu khổng lồ. Nếu dùng tay (Python thuần) để cộng từng ô một thì mất cả ngày. NumPy giống như máy tính Casio — bấm một phát ra kết quả cho cả bảng số. Còn Pandas giống như Excel thông minh — bạn có thể lọc "chi nhánh nào lỗ tháng này?", nhóm theo khu vực, tính trung bình... chỉ bằng 1 dòng lệnh. Matplotlib thì giống như khi bạn vẽ biểu đồ lên bảng trắng để trình bày cho sếp — hình ảnh nói lên nhiều hơn ngàn con số.
+
 ---
 
 ## PHẦN 1: NumPy — Nền tảng tính toán AI

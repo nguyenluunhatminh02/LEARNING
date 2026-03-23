@@ -5,6 +5,9 @@
 - Implement optimizer từ đầu
 - Biết cách chọn optimizer phù hợp
 
+## 📖 Câu chuyện đời thường
+> Tưởng tượng bạn bị lạc trong một thung lũng khổng lồ ban đêm và muốn tìm điểm thấp nhất (hồ nước). Bạn chỉ có thể cảm nhận độ dốc dưới chân. **Gradient Descent** = bước theo hướng dốc xuống. **Learning rate** = kích thước bước chân: bước quá to thì bạn nhảy qua hồ, bước quá nhỏ thì đi mãi không tới. **SGD** giống đi trong bóng tối chỉ sờ một điểm, **Mini-batch** giống sờ vài điểm xung quanh rồi quyết định. **Adam** thì như một người leo núi có kinh nghiệm — nhớ hướng đã đi trước đó và tự điều chỉnh bước chân cho phù hợp.
+
 ---
 
 ## 1. Gradient Descent

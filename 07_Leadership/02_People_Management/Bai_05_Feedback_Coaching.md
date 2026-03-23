@@ -6,6 +6,9 @@
 - Performance management & reviews
 - Career development conversations
 
+## 📖 Câu chuyện đời thường
+> **1:1** giống buổi cà phê với bạn thân: không phải báo cáo mà là nói chuyện thật — "đang gặp khó khăn gì?", "cần giúp gì?". **Radical Candor** là cân bằng giữa quan tâm và thẳng thắn. Nói "bài thuyết trình chưa tốt vì lý do X, thử cách Y" tốt hơn "bài tốt lắm" (giả tạo) hoặc "bài dở quá" (tầm hười). Giống bạn thân nói thật: "chiếc váy này không hợp với bạn" — vì quan tâm nên mới nói thật. **Career conversation** là hỏi: "5 năm nữa bạn muốn làm gì?" rồi giúp họ đi đúng hướng.
+
 ---
 
 ## 1. Effective 1:1 Meetings

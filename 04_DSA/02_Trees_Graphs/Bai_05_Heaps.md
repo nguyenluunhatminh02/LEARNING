@@ -5,6 +5,9 @@
 - Top-K problems
 - Median of stream
 
+## 📖 Câu chuyện đời thường
+> Bạn là bác sĩ phòng cấp cứu. Bệnh nhân không được khám theo thứ tự đến mà theo mức độ nguy kịch — ai nặng nhất khám trước. Đó chính là **Heap** (Priority Queue). **Min Heap** = luôn lấy ra phần tử nhỏ nhất. **Max Heap** = luôn lấy ra lớn nhất. **Top-K** giống như bảng xếp hạng: "Top 10 bài hát tuần này" — heap giúp luôn biết top 10 mà không cần sắp xếp lại toàn bộ mỗi lần có bài mới. **Median of stream** giống giữa 2 nhóm học sinh giỏi và khá — giá trị giữa luôn cập nhật khi có học sinh mới.
+
 ---
 
 ## 1. Heap Basics

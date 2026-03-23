@@ -5,6 +5,9 @@
 - Bloom Filter, HyperLogLog
 - Skip List, Count-Min Sketch
 
+## 📖 Câu chuyện đời thường
+> **Consistent Hashing** giống như bàn tròn trong nhà hàng: mỗi đầu bếp phụ trách một đoạn. Khi thêm đầu bếp mới, chỉ chuyển một phần nhỏ món ăn thay vì chia lại hết. **Bloom Filter** giống nhân viên soát vé nhanh: "Anh có vé không?" — nó trả lời "chắc chắn không" hoặc "có thể có" (không bao giờ sai khi nói không, nhưng có thể báo nhầm là có). **HyperLogLog** giống đếm số khách khác nhau đã vào quán hôm nay mà không cần nhớ mặt từng người — ước lượng xấp xỉ nhưng cực tiết kiệm bộ nhớ. **Skip List** giống hệ thống đường cao tốc + đường phụ: di chuyển nhanh trên cao tốc, rẽ vào đường nhỏ khi gần đích.
+
 ---
 
 ## 1. Consistent Hashing

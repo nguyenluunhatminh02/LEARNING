@@ -6,6 +6,9 @@
 - Reliability engineering (SLO/SLI/SLA)
 - System thinking cho Staff Engineer
 
+## 📖 Câu chuyện đời thường
+> Bạn là quản lý một cửa hàng trà sữa. **Performance profiling** = theo dõi từng bước: "pha trà mất 30s, rót ly mất 10s, xúc trân châu mất 20s" — bước nào lâu nhất thì cải thiện. **Capacity planning** = ước tính: "Black Friday có lẽ đông gấp 5, cần thêm 3 nhân viên và 2 máy pha". **SLA** = cam kết với khách: "trà sữa giao trong 5 phút, nếu không thì miễn phí". **System thinking** là nhìn tổng thể: việc thêm món mới có làm bếp chậm hơn không? việc giảm giá có làm đông quá tải không? Mọi thứ kết nối với nhau.
+
 ---
 
 ## 1. Performance Profiling

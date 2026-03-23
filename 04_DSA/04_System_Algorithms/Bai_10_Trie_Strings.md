@@ -5,6 +5,9 @@
 - KMP pattern matching
 - Rabin-Karp rolling hash
 
+## 📖 Câu chuyện đời thường
+> Bạn gõ "Nguy" trên điện thoại và nó gợi ý: "Nguyễn", "Nguyên", "Nguyễn Văn" — đó là **Trie** (đọc là "try"), cây lưu từ theo từng chữ cái. Gõ mỗi chữ là rẽ xuống 1 nhánh cây, từ gợi ý là các lá phía dưới. **KMP** giống tìm từ trong sách mà không cần quay lại đầu: khi so sánh thấy không khớp, bạn biết chính xác cần nhảy đến đâu thay vì bắt đầu lại từ đầu. **Rabin-Karp** giống như nhận dạng vân tay: thay vì so từng chữ, bạn tạo "dấu vân tay" (hash) cho đoạn văn và so vân tay — nhanh hơn nhiều.
+
 ---
 
 ## 1. Trie

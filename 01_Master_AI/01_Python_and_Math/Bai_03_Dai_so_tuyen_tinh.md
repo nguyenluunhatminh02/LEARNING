@@ -5,6 +5,9 @@
 - Hiểu eigenvalue, eigenvector, SVD — nền tảng của PCA, recommendation
 - Ứng dụng đại số tuyến tính vào AI/ML
 
+## 📖 Câu chuyện đời thường
+> Hãy tưởng tượng bạn đang trang trí phòng khách. Mỗi món đồ nội thất có các thuộc tính: chiều dài, chiều rộng, màu sắc, giá tiền — đó chính là một **vector**. Cả phòng khách (nhiều món đồ) tạo thành một **ma trận**. Khi bạn muốn xoay cái sofa 90 độ, đó là **phép biến đổi ma trận**. Eigenvalue giống như "hướng chính" của căn phòng — nếu phòng hình chữ nhật dài, thì hướng dọc là hướng "quan trọng nhất" (eigenvalue lớn nhất). PCA trong ML cũng vậy — nó tìm ra "hướng quan trọng nhất" trong dữ liệu để bạn có thể bỏ bớt chiều phụ mà vẫn giữ được bức tranh tổng thể.
+
 ---
 
 ## 1. Vector

@@ -6,6 +6,9 @@
 - CAP theorem thực tế
 - Connection pooling, query optimization
 
+## 📖 Câu chuyện đời thường
+> Bạn quản lý một chuỗi thư viện. **SQL** giống thư viện truyền thống: mỗi cuốn sách được ghi vào phiếu mượn, có quy tắc chặt chẽ (schema). **NoSQL** giống kho lưu trữ linh hoạt: sách, băng đĩa, bản đồ đều cho vào được. **Replication** là photo nhiều bản catalogue để mỗi chi nhánh có một bản (nếu một bản mất vẫn còn bản khác). **Sharding** là chia catalogue thành tập: A-M ở chi nhánh 1, N-Z ở chi nhánh 2 — mỗi nơi chỉ giữ một phần. **CAP theorem** nói: khi mạng lưới hỏng (điện thoại giữa các chi nhánh mất), bạn phải chọn: hoặc tất cả chi nhánh có data giống nhau (consistency) hoặc vẫn phục vụ khách dù data có thể hơi cũ (availability).
+
 ---
 
 ## 1. SQL vs NoSQL

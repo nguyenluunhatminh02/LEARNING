@@ -6,6 +6,9 @@
 - Security hardening
 - High Availability setup
 
+## 📖 Câu chuyện đời thường
+> Bạn là quản lý một tòa nhà văn phòng. **Backup** giống mua bảo hiểm và photo tài liệu quan trọng — nếu cháy nhà vẫn còn bản sao. **Monitoring** là hệ thống camera + cảm biến nhiệt: luôn biết tòa nhà đang trang thái nào. **Alerting** = chuông báo cháy: CPU > 90% thì gửi tin nhắn cho admin. **Security hardening** là khóa cửa, lắp camera, kiểm soát vào ra — không để ai vào phòng server mà không có quyền. **HA (High Availability)** là có máy phát điện dự phòng: mất điện thì máy phát bật ngay, tòa nhà vẫn hoạt động.
+
 ---
 
 ## 1. Backup Strategies

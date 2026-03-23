@@ -5,6 +5,9 @@
 - Dimensionality Reduction: PCA, t-SNE, UMAP
 - Anomaly Detection
 
+## 📖 Câu chuyện đời thường
+> Bạn là quản lý một siêu thị mới và muốn sắp xếp 10.000 khách hàng thành các nhóm để gửi khuyến mãi phù hợp, nhưng không ai gán nhãn sẵn. **K-Means** giống như bạn đặt 3 cái banner trên sàn, rồi bảo mọi người đứng gần banner nào giống mình nhất — dần dần 3 nhóm tự hình thành. **DBSCAN** thì giỏi hơn: nó phát hiện nhóm có hình dạng bất kỳ và tìm ra những người đứng một mình (outlier). **PCA** giống như khi bạn chụp ảnh nhóm 50 người — dù mỗi người có hàng trăm đặc điểm, bức ảnh 2D vẫn cho bạn thấy ai đứng gần ai.
+
 ---
 
 ## 1. K-Means Clustering

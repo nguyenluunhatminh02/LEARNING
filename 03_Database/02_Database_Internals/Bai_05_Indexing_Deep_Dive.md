@@ -6,6 +6,9 @@
 - Khi nào INDEX giúp, khi nào không
 - Partial index, expression index
 
+## 📖 Câu chuyện đời thường
+> Cuốn sách 500 trang không có mục lục — muốn tìm 1 chủ đề phải lật từ trang 1. Thêm **index** giống thêm mục lục ở cuối sách. **Composite index** là mục lục theo 2 tiêu chí: "Chương 5 → Mục 3" (tìm nhanh hơn). **Covering index** là mục lục ghi luôn tóm tắt nội dung — không cần lật đến trang gốc nữa. **Partial index** là mục lục chỉ cho phần quan trọng: "chỉ đánh index các đơn hàng chưa thanh toán" vì bạn hiếm khi tìm đơn đã xong. Nhưng nhớ: quá nhiều mục lục làm sách dày thêm và cập nhật chậm hơn (mỗi lần thêm trang phải sửa mục lục).
+
 ---
 
 ## 1. Tại sao cần Index?

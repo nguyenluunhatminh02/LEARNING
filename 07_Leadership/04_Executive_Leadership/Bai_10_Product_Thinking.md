@@ -6,6 +6,9 @@
 - A/B testing & experimentation
 - User research cho technical leadership
 
+## 📖 Câu chuyện đời thường
+> Bạn muốn mở quán ăn. Trước khi thuê mặt bằng lớn, bạn thử bán ở vỉa hè trước (**MVP**) để xem có ai mua không — đó là **product-market fit validation**. **Metrics-driven** = theo dõi số liệu: "tuần này bán 50 phần, tuần sau thêm tương ớ t thì bán 80" — biết cái gì hiệu quả. **A/B testing** = ngày chẵn nước mắm A, ngày lẻ nước mắm B, so kết quả. **User research** = ra nghe khách nói: "món này mặn quá, nhiều rau hơn thì tốt" — khách nói mới là sự thật, không phải bạn đoán.
+
 ---
 
 ## 1. Product Thinking

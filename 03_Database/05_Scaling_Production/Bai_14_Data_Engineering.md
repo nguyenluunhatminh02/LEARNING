@@ -6,6 +6,9 @@
 - Data Warehouse, Data Lake
 - Star Schema, dbt
 
+## 📖 Câu chuyện đời thường
+> **OLTP** giống quầy thu ngân siêu thị: xử lý từng giao dịch nhanh, mỗi lần 1 khách. **OLAP** giống phòng phân tích của giám đốc: xem báo cáo tổng hợp "doanh thu theo tháng, theo khu vực, so với năm ngoái". **ETL** giống dây chuyền chế biến thực phẩm: nhập nguyên liệu từ nhiều nơi (Extract), rửa sạch + cắt gọt (Transform), bày vào tủ đông lạnh (Load vào warehouse). **Data Lake** giống kho chứa mọi thứ chưa qua chế biến (raw data). **Star Schema** giống ngôi sao: giữa là bảng doanh thu (fact), xung quanh là các chiều: thời gian, sản phẩm, khu vực (dimensions).
+
 ---
 
 ## 1. OLTP vs OLAP

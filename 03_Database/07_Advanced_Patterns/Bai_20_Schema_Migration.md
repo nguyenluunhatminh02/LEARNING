@@ -6,6 +6,9 @@
 - Migration tools: Flyway, Alembic, golang-migrate
 - Backward/forward compatible changes
 
+## 📖 Câu chuyện đời thường
+> Bạn cần sửa lại hệ thống điện trong nhà (**schema migration**) nhưng gia đình vẫn đang sống trong đó (**zero-downtime**). Bạn không thể cắt điện 3 ngày! Thay vào đó: bước 1 lắp thêm đường dây mới chạy song song. Bước 2 chuyển thiết bị sang dây mới. Bước 3 tháo dây cũ. **Backward compatible** = thiết bị cũ vẫn chạy được với dây mới. Migration tools (Flyway, Alembic) giống như bản vẽ sửa điện có đánh số từ bước 1 đến bước 10 — ai làm cũng làm giống nhau, và có thể quay lại bước trước nếu sai (rollback).
+
 ---
 
 ## 1. Tại sao Schema Migration khó?

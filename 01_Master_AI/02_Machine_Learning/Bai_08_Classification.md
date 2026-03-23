@@ -5,6 +5,9 @@
 - Hiểu KNN, SVM và kernel trick
 - Biết cách đánh giá classification model
 
+## 📖 Câu chuyện đời thường
+> Ngân hàng cần quyết định: cho vay hay không? Đây là bài toán **phân loại** (Yes/No). **Logistic Regression** giống như một người duyệt hồ sơ cân nhắc: thu nhập cao +10 điểm, nợ nhiều -5 điểm... rồi tổng điểm > ngưỡng thì duyệt. **KNN** là cách nghĩ đơn giản: "5 người giống bạn nhất đều trả nợ đúng hạn → bạn cũng sẽ OK". **SVM** thì giống như kẻ một đường ranh giới rõ ràng nhất giữa nhóm "tốt" và nhóm "rủi ro" — và **kernel trick** cho phép kẻ đường cong khi 2 nhóm không thể tách bằng đường thẳng.
+
 ---
 
 ## 1. Logistic Regression

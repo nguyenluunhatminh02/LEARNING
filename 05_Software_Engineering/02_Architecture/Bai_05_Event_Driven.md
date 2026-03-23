@@ -5,6 +5,9 @@
 - Choreography vs Orchestration
 - Outbox pattern, idempotency
 
+## 📖 Câu chuyện đời thường
+> **Choreography** giống vũ công múa tự do: mỗi người nghe nhạc và tự biết mình cần làm gì, không ai chỉ huy. **Orchestration** giống nhạc trưởng dàn nhạc: một người điều phối ai chơi lúc nào. **Idempotency** giống như nút thang máy: bấm 1 lần hay 10 lần kết quả giống nhau — thang vẫn đến tầng 5. Trong hệ thống, nếu tin nhắn "trừ tiền" được gửi 2 lần vì lỗi mạng, idempotency đảm bảo chỉ trừ 1 lần. **Outbox pattern** giống như bạn ghi việc cần làm vào sổ tay (outbox table) trước, rồi một người khác đọc sổ tay và làm theo — đảm bảo không quên.
+
 ---
 
 ## 1. Event Sourcing

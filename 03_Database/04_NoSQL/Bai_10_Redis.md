@@ -6,6 +6,9 @@
 - Persistence (RDB, AOF)
 - Redis Cluster & Sentinel
 
+## 📖 Câu chuyện đời thường
+> **Redis** giống như bảng trắng trong phòng học. Bạn ghi lên đó những thông tin cần tra nhanh: lịch học (sorted set), số học sinh có mặt (counter), tin nhắn gần nhất (list). Đọc từ bảng trắng cực nhanh (in-memory), nhưng nếu xóa bảng thì mất hết. **RDB/AOF** giống chụp ảnh bảng trắng định kỳ để phòng mất. **Session** giống thẻ vào cử: khi bạn login, bo nhớ giữ lại "người này đã xác thực" để khỏi hỏi lại mỗi lần. **Rate limiting** giống ghi đếm: "anh này đã gọi 100 lần trong 1 phút, block!". Redis = trí nhớ ngắn hạn siêu nhanh của hệ thống.
+
 ---
 
 ## 1. Data Structures

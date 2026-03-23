@@ -7,6 +7,9 @@
 - A/B testing & canary deployment cho ML models
 - CI/CD cho ML (CT — Continuous Training)
 
+## 📖 Câu chuyện đời thường
+> Bạn đã nghiên cứu được công thức bánh tuyệt vời (trained model). Giờ bạn mở tiệm bánh cho khách (đưa model lên production). **REST API** giống như khách gọi điện đặt bánh. **Docker** là đóng gói toàn bộ bếp + nguyên liệu + công thức vào 1 container để mở chi nhánh ở đâu cũng giống nhau. **Monitoring** là việc bạn kiểm tra hàng ngày: "chất lượng bánh có ổn không? khách có phàn nàn?" **Data drift** là khi nguyên liệu thay đổi (bột mới khác bột cũ) — công thức cũ có thể không còn hiệu quả. **A/B testing** là cho một nửa khách thử công thức mới, nửa kia vẫn công thức cũ, xem cái nào được đánh giá cao hơn.
+
 > **Prerequisite**: Hoàn thành Bài 28 (ML Pipeline & Experiment Tracking)
 
 ---

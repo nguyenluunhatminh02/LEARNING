@@ -5,6 +5,9 @@
 - DDD: Entities, Value Objects, Aggregates, Bounded Contexts
 - Dependency rule
 
+## 📖 Câu chuyện đời thường
+> **Clean Architecture** giống như bệnh viện được thiết kế tốt. Vùng lõi là phòng mổ (business logic) — không phụ thuộc vào loại máy móc bên ngoài. Lớp ngoài là quầy lễ tân, hệ thống đặt lịch — thay đổi được mà không ảnh hưởng phòng mổ. **DDD** giống như việc bác sĩ và lập trình viên nói chung ngôn ngữ: khi nói "bệnh nhân", cả 2 hiểu giống nhau (ubiquitous language). **Bounded Context** = phòng Khám và phòng Thuán có thể dùng từ "bệnh nhân" khác nghĩa (người đến khám vs người đang nằm viện) — mỗi phòng là một "thế giới" riêng.
+
 ---
 
 ## 1. Clean Architecture

@@ -6,6 +6,9 @@
 - Aggregations & analytics
 - Production patterns: ELK, search design
 
+## 📖 Câu chuyện đời thường
+> Bạn có 1 triệu email và muốn tìm email nào có từ "hợp đồng". SQL phải đọc từng email một (LIKE '%hợp đồng%') — cực chậm. **Elasticsearch** dùng **inverted index** giống mục lục cuối sách: ghi sẵn "hợp đồng" xuất hiện ở email số 45, 123, 789 — tra vào một phát là ra. Elasticsearch còn hiểu "hợp đồng", "contract", "hướng dẫn hợp đồng" là liên quan (fuzzy search). **ELK** (Elasticsearch + Logstash + Kibana) giống như: thu thập log từ mọi nơi (Logstash) → tìm kiếm nhanh (Elasticsearch) → vẽ biểu đồ đẹp (Kibana).
+
 ---
 
 ## 1. Tại sao cần Search Engine?

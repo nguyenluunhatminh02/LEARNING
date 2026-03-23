@@ -6,6 +6,9 @@
 - Signed builds & verified artifacts
 - Secure CI/CD pipeline
 
+## 📖 Câu chuyện đời thường
+> Bạn mở tiệm bánh và mua nguyên liệu từ nhiều nhà cung cấp. **Supply Chain Security** là kiểm tra: bột mì có tạp chất không? sữa có hết hạn không? Nếu 1 nhà cung cấp bị nhiễm độc, cả tiệm bị liên lụy. **SBOM** giống danh sách thành phần trên bao bì thực phẩm: ghi rõ dùng thư viện nào, phiên bản nào — để khi có lỗi bảo mật, biết ngay mình có bị ảnh hưởng không. **Signed builds** giống tem chống giả trên sản phẩm: bảo đảm bánh là do tiệm bạn làm, không bị ai tráo.
+
 ---
 
 ## 1. Dependency Security

@@ -5,6 +5,9 @@
 - So sánh CNN vs ViT
 - Sử dụng pretrained ViT
 
+## 📖 Câu chuyện đời thường
+> Trước đây, để đọc một bức tranh lớn, bạn dùng kính lúp quét từ trái sang phải (CNN). Nhưng **ViT** làm khác: nó **cắt bức tranh thành nhiều mảnh nhỏ** (patches), rồi nhìn tất cả các mảnh cùng lúc và tự hỏi: "mảnh nào liên quan đến mảnh nào?" (self-attention). Giống như khi bạn xem một bản đồ thành phố — bạn không đọc từ góc trái sang phải, mà mắt bạn nhảy giữa các khu vực để hiểu mối quan hệ: "bệnh viện gần trường học, công viên xa khu công nghiệp". ViT làm được điều này vì nó kế thừa sức mạnh từ Transformer — công nghệ đã cách mạng NLP.
+
 ---
 
 ## 1. Vision Transformer Architecture

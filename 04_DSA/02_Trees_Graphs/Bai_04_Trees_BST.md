@@ -5,6 +5,9 @@
 - BST operations
 - Common tree patterns
 
+## 📖 Câu chuyện đời thường
+> **Tree** giống như cây gia phả: ông bà ở gốc, con cháu là các nhánh. **BST** (Binary Search Tree) là cây gia phả có quy tắc: bên trái luôn nhỏ hơn, bên phải luôn lớn hơn — giống như từ điển: mở giữa, từ cần tìm đứng trước thì rẽ trái, đứng sau thì rẽ phải. **DFS** (Depth-First) giống đi thăm từng nhánh gia đình cho đến hết rồi quay lại. **BFS** (Breadth-First) giống thăm từng thế hệ: ông bà trước, rồi bố mẹ, rồi con cái. Mỗi bài toán phù hợp với kiểu thăm khác nhau.
+
 ---
 
 ## 1. Tree Traversals

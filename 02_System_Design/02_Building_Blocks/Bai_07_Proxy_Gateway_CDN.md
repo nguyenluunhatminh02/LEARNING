@@ -5,6 +5,9 @@
 - CDN hoạt động thế nào
 - Service Mesh basics
 
+## 📖 Câu chuyện đời thường
+> **Forward Proxy** giống như ông bảo vệ cổng công ty: bạn muốn gửi thư ra ngoài, phải nhờ ông gửi hộ (người ngoài không biết bạn là ai). **Reverse Proxy** giống lễ tân khách sạn: khách đến chỉ gặp lễ tân, lễ tân phân phòng phù hợp (khách không biết phòng nào trống). **API Gateway** giống như quầy thông tin tại trung tâm thương mại: mọi câu hỏi đều qua đây, nơi đây hướng dẫn bạn đến đúng cửa hàng. **CDN** giống như mạng lưới các kho hàng trải khắp cả nước: thay vì giao hàng từ Hà Nội cho khách Sài Gòn, lấy từ kho Sài Gòn cho nhanh.
+
 ---
 
 ## 1. Proxy Types

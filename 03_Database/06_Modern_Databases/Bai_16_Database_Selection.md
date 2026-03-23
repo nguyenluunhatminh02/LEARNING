@@ -6,6 +6,9 @@
 - Trade-offs & decision matrix
 - Real-world case studies
 
+## 📖 Câu chuyện đời thường
+> Bạn mở nhà hàng và cần chọn dụng cụ bếp. Không ai dùng một con dao để làm mọi thứ: dao Nhật cắt sashimi, dao đầu bếp chặt xương, dao gọ̃t cắt rau. Tương tự, **Polyglot Persistence** là dùng đúng DB cho đúng việc: PostgreSQL cho giao dịch tài chính (chính xác), Redis cho cache (nhanh), Elasticsearch cho tìm kiếm (full-text), MongoDB cho hồ sơ linh hoạt. Việc chọn database giống chọn xe: xe tải chở hàng, xe con đi làm, xe máy luồn hẻ — không có loại nào "tốt nhất", chỉ có "phù hợp nhất".
+
 ---
 
 ## 1. Tại sao chọn Database là quyết định quan trọng nhất?

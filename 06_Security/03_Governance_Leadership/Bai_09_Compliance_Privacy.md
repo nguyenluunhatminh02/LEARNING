@@ -6,6 +6,9 @@
 - Privacy by Design principles
 - Audit & compliance automation
 
+## 📖 Câu chuyện đời thường
+> Bạn mở phòng khám tư. **GDPR** giống luật bảo vệ bệnh nhân: họ có quyền xem hồ sơ, yêu cầu xóa, biết ai đang xem. **SOC2** giống chứng chỉ ISO cho phòng khám: chứng minh bạn bảo vệ thông tin bệnh nhân đúng chuẩn. **PCI-DSS** là chuẩn cho thanh toán: nếu bạn nhận thẻ tín dụng, phải bảo vệ số thẻ như bảo vệ két sắt. **Data classification** giống phân loại tài liệu: hồ sơ bệnh = mật, số điện thoại = riêng tư, giờ làm việc = công khai. Mức bảo vệ khác nhau cho mỗi loại. **Privacy by Design** = thiết kế phòng khám với phòng riêng từ đầu, không phải đợi có phàn nàn mới làm vách ngăn.
+
 ---
 
 ## 1. Major Compliance Frameworks

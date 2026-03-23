@@ -5,6 +5,9 @@
 - Deployment strategies (Blue-Green, Canary, Rolling)
 - Feature flags
 
+## 📖 Câu chuyện đời thường
+> **CI/CD** giống dây chuyền sản xuất nhà máy kem. Nguyên liệu (code) vào → kiểm tra chất lượng (CI: test, lint) → đóng hộp (build) → giao cho cửa hàng (CD: deploy). **Blue-Green** giống có 2 dây chuyền: dây chuyền xanh đang chạy, lắp dây chuyền xanh dương mới, kiểm tra OK rồi chuyển khách sang. **Canary** giống cho 5% khách thử vị kem mới — không ai phàn nàn thì mới bán cho tất cả. **Feature flags** giống công tắc đèn: dù kem mới đã ở cửa hàng, bạn chưa bật đèn (chưa show cho khách) cho đến khi sẵn sàng.
+
 ---
 
 ## 1. CI/CD Pipeline Stages

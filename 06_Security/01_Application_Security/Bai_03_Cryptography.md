@@ -5,6 +5,9 @@
 - TLS/HTTPS
 - Key management & secrets handling
 
+## 📖 Câu chuyện đời thường
+> **Hashing** giống dấu vân tay: từ vân tay suy ra được người nhưng không thể từ người suy ra vân tay (một chiều). Dùng để lưu mật khẩu: không lưu "abc123" mà lưu vân tay của nó. **Symmetric encryption** giống hộp khóa chung: bạn và người nhận dùng cùng 1 chìa khóa — nhanh nhưng phải tìm cách trao chìa khóa an toàn. **Asymmetric** giống hòm thư công cộng: ai cũng bỏ thư vào được (public key) nhưng chỉ bạn mới mở ra đọc (private key). **TLS** là việc 2 người bắt tay nhau và thỏa thuận cách mã hóa trước khi nói chuyện bí mật.
+
 ---
 
 ## 1. Hashing

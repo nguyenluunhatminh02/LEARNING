@@ -6,6 +6,9 @@
 - Managing scope & stakeholder expectations
 - Agile at scale
 
+## 📖 Câu chuyện đời thường
+> Bạn tổ chức đám cưới. **Estimation** = ước tính: trang trí mất 2 ngày, nấu ăn 1 ngày — luôn nhân thêm 1.5x vì chắc chắn có việc phát sinh. **Risk management** = chuẩn bị plan B: trời mưa thì dời vào trong, ca sĩ hủy thì có nhạc DJ. **Scope creep** = mẹ bạn nói "thêm tiết mục này, thêm món này" — nếu không kiểm soát, đám cười trễ 3 tháng và vượt budget 2x. **Agile** = làm từng phần nhỏ, kiểm tra thường xuyên: tuần này xong thiệp, tuần sau xong trang trí.
+
 ---
 
 ## 1. Software Estimation

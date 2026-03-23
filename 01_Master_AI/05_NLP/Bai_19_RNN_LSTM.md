@@ -5,6 +5,9 @@
 - LSTM: forget gate, input gate, output gate
 - Sequence-to-Sequence model
 
+## 📖 Câu chuyện đời thường
+> Bạn đang xem một bộ phim dài tập. **RNN** giống như một người xem phim có trí nhớ ngắn — xem tập 50 thì quên mất chuyện gì xảy ra ở tập 1 (vanishing gradient). **LSTM** giống như người xem phim có sổ ghi chép: **forget gate** = "xóa ghi chú về nhân vật phụ đã chết", **input gate** = "ghi thêm tình tiết mới quan trọng", **output gate** = "xem lại ghi chép để hiểu tập hiện tại". Nhờ có sổ ghi chép, LSTM có thể hiểu câu chuyện dài hơn rất nhiều so với RNN thuần. **Seq2Seq** giống như phiên dịch: nghe xong cả câu tiếng Việt rồi mới nói ra câu tiếng Anh.
+
 ---
 
 ## 1. Recurrent Neural Network (RNN)

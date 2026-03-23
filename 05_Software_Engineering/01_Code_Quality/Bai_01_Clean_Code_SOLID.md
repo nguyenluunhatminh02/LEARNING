@@ -5,6 +5,9 @@
 - SOLID principles
 - Code smells & refactoring
 
+## 📖 Câu chuyện đời thường
+> Bạn viết lá thư tay gửi cho người yêu. Chữ đẹp, câu rõ ràng, người đọc hiểu ngay — đó là **Clean Code**. Chữ xấu, viết tắt, làm người đọc đoán mãi — đó là code smells. **SOLID** giống 5 quy tắc xây nhà: **S** = mỗi phòng chỉ 1 chức năng (bếp nấu, WC vệ sinh). **O** = mỡ rộng nhà bằng cách xây thêm phòng, không phá tường phòng cũ. **L** = phòng con thay được phòng cha (phòng học có thể làm phòng họp). **I** = không ép khách dùng công tắc không cần. **D** = thợ điện không cần biết nhà sản xuất đèn, chỉ cần biết ổ cắm tiêu chuẩn.
+
 ---
 
 ## 1. Clean Code Rules

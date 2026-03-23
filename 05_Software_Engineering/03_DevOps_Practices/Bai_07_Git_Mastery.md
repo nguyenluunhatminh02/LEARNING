@@ -5,6 +5,9 @@
 - Rebase, cherry-pick, bisect
 - Conventional commits, monorepo
 
+## 📖 Câu chuyện đời thường
+> **Git** giống như máy thời gian cho code. Mỗi **commit** là một bức ảnh chụp lại toàn bộ dự án tai thời điểm đó. **Branch** giống như làm thử trên giấy nháp: bạn thử ý tưởng mới mà không làm hỏng bản chính. **Git Flow** giống nhà xuất bản: có bản thảo (develop), bản in thử (release), bản chính thức (main). **Trunk-based** giống tòa ban biên tập thời sự: ai viết xong bài nào là đưa vào số chính luôn. **Bisect** giống tìm bug bằng binary search: "bản tháng 1 OK, tháng 6 lỗi → thử tháng 3... OK → thử tháng 4... lỗi! Bug xuất hiện trong tháng 4".
+
 ---
 
 ## 1. Branching Strategies

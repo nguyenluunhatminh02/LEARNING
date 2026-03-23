@@ -5,6 +5,9 @@
 - Stack & Queue applications
 - Monotonic Stack
 
+## 📖 Câu chuyện đời thường
+> **Linked List** giống đoàn tàu hỏa: mỗi toa biết toa kế tiếp là gì nhưng không biết toa số 10 ở đâu. Muốn thêm toa giữa đoàn tàu? Dễ! Chỉ cần nối lại 2 móc (con trỏ). **Stack** giống chồng đĩa: đĩa đặt sau cùng lấy ra trước (LIFO). Khi bạn bấm Ctrl+Z, chất Undo stack lấy hành động gần nhất ra hủy. **Queue** giống hàng đợi mua vé xem phim: ai đến trước mua trước (FIFO). **Monotonic Stack** giống như đứng trên mái nhà nhìn về phía trước: bạn chỉ thấy tòa nhà tiếp theo cao hơn bạn, các tòa thấp hơn bị che khuất.
+
 ---
 
 ## 1. Linked List

@@ -5,6 +5,9 @@
 - Estimation: tính QPS, storage, bandwidth
 - Các con số mọi engineer cần nhớ
 
+## 📖 Câu chuyện đời thường
+> Bạn muốn mở một quán cà phê. Trước khi xây, bạn cần ước lượng: "Mỗi ngày bao nhiêu khách? Cần bao nhiêu bàn? Kho chứa bao nhiêu cà phê?" — đó chính là **Back-of-the-Envelope Estimation**. Nếu bạn không ước lượng, có thể thuê mặt bằng quá nhỏ (server yếu) hoặc quá lớn (lãng phí tiền). Việc nhớ các con số latency giống như biết khoảng cách từ nhà đến chợ, từ chợ đến kho hàng — để biết "lấy hàng mất bao lâu" không cần đo lại mỗi lần.
+
 ---
 
 ## 1. Các con số quan trọng (Latency Numbers)

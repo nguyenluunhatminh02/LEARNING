@@ -6,6 +6,9 @@
 - Observability: logging, metrics, tracing
 - SLI/SLO/SLA
 
+## 📖 Câu chuyện đời thường
+> Quán cà phê của bạn đông quá. **Vertical scaling** = mua máy pha cà phê lớn hơn (nâng cấp server). **Horizontal scaling** = mở thêm chi nhánh (thêm server). **High Availability** = luôn có ít nhất 1 chi nhánh mở cửa, dù chi nhánh khác đang sửa. **Logging** giống camera an ninh: ghi lại mọi thứ để khi có vấn đề thì xem lại. **Metrics** là bảng đồng hồ trên tường: bao nhiêu khách/giờ, thời gian chờ trung bình. **Tracing** giống theo dõi hành trình của 1 đơn hàng: từ lúc order → pha chế → giao → khách nhận. **SLA** là cam kết với khách: "99.9% thời gian quán mở cửa".
+
 ---
 
 ## 1. Scalability

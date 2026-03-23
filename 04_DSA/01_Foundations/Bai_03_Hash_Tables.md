@@ -5,6 +5,9 @@
 - HashMap/HashSet patterns
 - Frequency counting, grouping
 
+## 📖 Câu chuyện đời thường
+> Bạn làm thủ thư viện. Thay vì tìm sách bằng cách lật từng kệ, bạn dùng **hệ thống mã số**: sách "Thiệu nữ" có mã VN-042, đi thẳng đến kệ VN ngăn 042. **Hash function** chính là cách tạo mã số từ tên sách. **Collision** là khi 2 cuốn sách khác nhau ra cùng mã — cần xử lý (chaining hoặc open addressing). **HashMap** dùng hàng ngày: danh bạ điện thoại (tên → số), kiểm tra từ trùng lặp, đếm tần suất chữ cái trong một văn bản. Tra cứu O(1) = nhanh như bạn biết chính xác khóa để mở ngăn kéo.
+
 ---
 
 ## 1. Hash Table Internals

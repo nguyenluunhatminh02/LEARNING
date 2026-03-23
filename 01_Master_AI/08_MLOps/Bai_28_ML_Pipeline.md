@@ -7,6 +7,9 @@
 - Pipeline orchestration (Airflow, Prefect)
 - End-to-end ML pipeline
 
+## 📖 Câu chuyện đời thường
+> Bạn là đầu bếp nghiên cứu công thức mới. Mỗi lần thử, bạn ghi lại: "lần 1: 200g bột, 3 trứng → bánh hơi khô; lần 2: 180g bột, 4 trứng → ướt quá" — đó là **experiment tracking** (MLflow). **DVC** giống như bạn lưu số riêng cho từng loại nguyên liệu: "tuần này dùng bột mì hiệu A, tuần trước dùng hiệu B" — để biết chính xác công thức nào dùng nguyên liệu nào. **Pipeline orchestration** giống dây chuyền nhà bếp: rửa rau → cắt → xào → bày bên — tự động, đúng thứ tự, không cần ai nhắc.
+
 > **Tiếp theo**: Bài 29 — Model Deployment & Monitoring (production serving, drift detection)
 
 ---

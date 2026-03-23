@@ -5,6 +5,9 @@
 - Nắm ML pipeline từ đầu đến cuối
 - Hiểu Bias-Variance tradeoff, Overfitting/Underfitting
 
+## 📖 Câu chuyện đời thường
+> Bạn dạy một đứa trẻ nhận biết trái cây. Bạn không viết ra quy tắc "táo là tròn, màu đỏ" mà đưa cho bé xem nhiều quả táo và nói "này là táo" — đó là **Supervised Learning**. Nếu bạn để bé tự phân nhóm trái cây theo hình dạng và màu sắc mà không gán tên — đó là **Unsupervised Learning**. **Overfitting** giống như một học sinh học thuộc lòng 100 đề thi mẫu nhưng gặp đề mới lại không giải được. **Underfitting** là học lười quá, không hiểu gì cả. ML pipeline giống như quy trình nấu ăn: thu thập nguyên liệu (data) → sơ chế (preprocessing) → nấu (training) → nếm thử (evaluation) → dọn ra bàn (deployment).
+
 ---
 
 ## 1. Machine Learning là gì?

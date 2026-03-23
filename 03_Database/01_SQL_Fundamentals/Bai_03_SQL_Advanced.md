@@ -5,6 +5,9 @@
 - CTE (Common Table Expressions) & Recursive CTE
 - EXPLAIN ANALYZE — đọc query plan
 
+## 📖 Câu chuyện đời thường
+> Bạn là giáo viên và cần xếp hạng học sinh trong lớp. **ROW_NUMBER** = đánh số thứ tự riêng cho từng lớp: lớp A có hạng 1-30, lớp B có hạng 1-30 (không trộn lẫn). **RANK** = xếp hạng cho phép đồng hạng: 2 người cung điểm thì cùng hạng 1, người tiếp theo là hạng 3. **LAG/LEAD** giống so sánh điểm tháng này với tháng trước: "bạn A tháng này 8 điểm, tháng trước 7 điểm → tiến bộ!". **EXPLAIN ANALYZE** giống như đặt camera theo dõi cách database tìm dữ liệu — để biết nó đang mất thời gian ở đâu và cải thiện.
+
 ---
 
 ## 1. Window Functions

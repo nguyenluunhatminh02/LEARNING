@@ -5,6 +5,9 @@
 - Array/String manipulation
 - Two Pointers, Sliding Window patterns
 
+## 📖 Câu chuyện đời thường
+> Bạn cần tìm một cuốn sách trong phòng. Cách 1: lật từng cuốn một — O(N). Cách 2: nếu sách xếp theo alphabet, mở giữa kệ, so sánh rồi bỏ nửa không cần — O(log N). **Big-O** là cách đo "tệ đến mức nào khi số lượng tăng". **Two Pointers** giống 2 người đi từ 2 đầu hành lang tiến vào nhau: người trái cầm sách A, người phải cầm sách Z, so sánh và dịch gần lại. **Sliding Window** giống như kéo một khung cửa sổ qua dãy số: xem 5 phần tử liên tiếp, dịch sang phải 1, bỏ phần cũ thêm phần mới — không cần tính lại từ đầu.
+
 ---
 
 ## 1. Big-O Complexity

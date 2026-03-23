@@ -6,6 +6,9 @@
 - Service discovery, circuit breaker
 - Data management trong microservices
 
+## 📖 Câu chuyện đời thường
+> **Monolith** giống như một nhà hàng nhỏ: 1 bếp, 1 đầu bếp làm hết từ khai vị đến tráng miệng. Đơn giản nhưng khi đông khách, 1 người không xuể nổi. **Microservices** giống food court: quầy phở, quầy sữđi, quầy nước — mỗi quầy chuyên một món, hoạt động độc lập. Nếu quầy nước hỏng, khách vẫn ăn phở được. **Circuit Breaker** giống cầu dao điện: khi quầy nước liên tục hỏng, bạn tạm ngắt kết nối ("đừng gọi nước nữa, chờ họ sửa xong") thay vì để khách chờ mãi. **Service Discovery** giống bảng chỉ dẫn trong food court: quầy phở ở số 3, quầy nước ở số 7.
+
 ---
 
 ## 1. Monolith vs Microservices

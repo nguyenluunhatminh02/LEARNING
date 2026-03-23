@@ -6,6 +6,9 @@
 - Developer experience (DevEx)
 - Making investment cases for engineering tools
 
+## 📖 Câu chuyện đời thường
+> Bạn quản lý một nhà máy và cần biết: sản xuất nhanh hay chậm? chất lượng ra sao? **DORA metrics** giống 4 chỉ số chính của nhà máy: tần suất xuất hàng (deployment frequency), thời gian từ đơn đến giao (lead time), tỷ lệ hàng lỗi (change failure rate), thời gian sửa lỗi (MTTR). **DevEx** giống đầu tư máy móc tốt cho công nhân: máy cũ kẹt liên tục, công nhân bực bội và chậm. Mua máy mới đắt nhưng năng suất tăng 3x — đó là **investment case**: chi tiền tool để tiết kiệm thời gian người.
+
 ---
 
 ## 1. DORA Metrics

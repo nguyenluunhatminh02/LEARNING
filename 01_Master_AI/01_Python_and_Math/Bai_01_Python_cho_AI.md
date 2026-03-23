@@ -4,6 +4,9 @@
 - Nắm vững Python cơ bản đến nâng cao
 - Viết code Python clean, hiệu quả cho AI/ML
 
+## 📖 Câu chuyện đời thường
+> Hãy tưởng tượng bạn muốn mở một nhà hàng. Trước khi nấu bất kỳ món ăn cao cấp nào, bạn cần thành thạo các kỹ năng cơ bản: cầm dao đúng cách, biết các loại gia vị, biết điều chỉnh lửa. Python chính là "bộ dao và bếp" của AI Engineer — nếu bạn không thành thạo công cụ cơ bản, thì dù có công thức (thuật toán) hay đến đâu, bạn cũng không nấu được món ngon (model tốt). List comprehension giống như kỹ thuật cắt nhanh của đầu bếp chuyên nghiệp — cùng một việc nhưng nhanh gọn hơn hẳn.
+
 ---
 
 ## 1. Python cơ bản — Ôn tập nhanh

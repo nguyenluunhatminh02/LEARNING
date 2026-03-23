@@ -5,6 +5,9 @@
 - Denormalization strategies
 - Schema patterns cho real-world systems
 
+## 📖 Câu chuyện đời thường
+> Bạn tổ chức tủ quần áo. **Normalization** là sắp xếp gọn gàng: áo sơ mi riêng, quần riêng, phụ kiện riêng — không lặp, dễ tìm. Nhưng mỗi sáng đi làm, bạn phải mở 3 ngăn (3 bảng JOIN). **Denormalization** là bạn chuẩn bị sẵn 5 bộ đồ có sẵn áo + quần + thắt lưng treo cùng nhau — lấy 1 phát là xong, nhưng tốn diện tích và khi thay đổi thắt lưng phải sửa nhiều bộ. Data modeling là **cân bằng** giữa gọn gàng (tiết kiệm) và tiện lợi (nhanh): tuỳ bài toán mà chọn.
+
 ---
 
 ## 1. Normalization

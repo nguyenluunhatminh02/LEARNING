@@ -4,6 +4,9 @@
 - Thiết kế Real-time Chat (WhatsApp/Messenger)
 - Thiết kế News Feed (Facebook/Twitter)
 
+## 📖 Câu chuyện đời thường
+> **Chat system** giống như hệ thống bộ đàm trong tòa nhà: khi bạn nói, mọi người trong nhóm nghe ngay (real-time). Nhưng nếu bạn offline, tin nhắn được lưu lại và giao khi bạn online (message persistence). **News Feed** giống như một người phát báo mỗi sáng: họ chọn bài từ nhiều nguồn (bạn bè, group, trang theo dõi), sắp xếp theo độ quan trọng và giao cho bạn một tờ báo cá nhân hóa. Vấn đề là: nếu Lady Gaga có 100 triệu follower, mỗi lần đăng bài thì phải gửi đến 100 triệu người — đó là bài toán **fan-out** kinh điển.
+
 ---
 
 ## PART A: Real-time Chat System

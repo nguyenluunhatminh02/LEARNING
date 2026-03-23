@@ -7,6 +7,9 @@
 - Disaster Recovery planning
 - Database team organization
 
+## 📖 Câu chuyện đời thường
+> Bạn là giám đốc một bệnh viện. **Data governance** là quy định ai được xem hồ sơ bệnh án, lưu bao lâu, hủy kiểu gì. **GDPR** giống luật bảo vệ bệnh nhân: họ có quyền yêu cầu xóa hồ sơ (right to be forgotten). **PII** là thông tin nhạy cảm: tên, địa chỉ, bệnh án — phải mã hóa và kiểm soát chặt. **Cost optimization** giống quản lý ngân sách bệnh viện: không mua máy CT Scan 10 tỷ nếu chỉ cần máy X-quang 500 triệu. **Disaster Recovery** là kế hoạch khi bệnh viện bị ngập: hồ sơ quan trọng đã có bản sao ở nơi an toàn, biết chuyển bệnh nhân đi đâu.
+
 ---
 
 ## 1. Data Governance — Tại sao CTO phải quan tâm?

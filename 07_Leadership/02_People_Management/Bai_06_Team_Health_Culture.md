@@ -6,6 +6,9 @@
 - Remote/hybrid leadership
 - Preventing burnout
 
+## 📖 Câu chuyện đời thường
+> **Psychological safety** giống lớp học nơi học sinh dám giơ tay hỏi "em không hiểu" mà không sợ bị chê cười. Nếu ai cũng sợ sai, không ai dám thử cái mới. **Tuckman's stages**: Forming (lớp mới, ai cũng lịch sự) → Storming (bắt đầu va chạm) → Norming (tìm ra cách làm việc chung) → Performing (phối hợp ăn ý). Đừng hoảng khi đội xung đột — đó là bước tự nhiên. **Burnout** giống chạy marathon không nghỉ: ai cũng có giới hạn. Quản lý tốt biết khi nào đội cần nghỉ, giống huấn luyện viên biết khi nào cầu thủ cần thay người.
+
 ---
 
 ## 1. Psychological Safety

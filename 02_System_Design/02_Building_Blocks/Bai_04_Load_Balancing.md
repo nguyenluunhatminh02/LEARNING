@@ -6,6 +6,9 @@
 - Layer 4 vs Layer 7
 - Health checks & failover
 
+## 📖 Câu chuyện đời thường
+> Bạn đến ngân hàng giờ cao điểm, có 20 người xếp hàng. Ngay cửa có một nhân viên điều phối: "Quầy 1 đang trống, mời anh! Quầy 3 sắp xong, chị chờ chút!" — người đó chính là **Load Balancer**. **Round Robin** = đến lượt quầy nào thì vào quầy đó. **Least Connections** = ai rảnh nhất thì nhận khách. **Health check** = kiểm tra quầy nào đã đóng (server chết) thì không đưa khách vào nữa. Không có load balancer, tất cả đổ vào 1 quầy → quầy đó quá tải, các quầy khác ngồi chơi.
+
 ---
 
 ## 1. Load Balancer là gì?

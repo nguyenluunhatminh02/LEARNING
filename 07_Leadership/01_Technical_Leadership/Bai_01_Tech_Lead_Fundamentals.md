@@ -6,6 +6,9 @@
 - Technical mentoring & sponsorship
 - Balancing coding vs leading
 
+## 📖 Câu chuyện đời thường
+> Bạn là đội trưởng một đội bóng đá nghiệp dư. Bạn không phải huấn luyện viên (boss) mà là người chơi giỏi nhất được mọi người tin tưởng (**influence without authority**). Bạn vừa phải ghi bàn (code) vừa phải chuyền bóng cho đồng đội (lead). Nếu bạn chỉ ghi bàn mà không chuyền bóng, đội yếu. Nếu chỉ chuyền bóng mà không chơi được, mất uy tín. **Mentoring** là dạy cầu thủ trẻ kỹ thuật. **Sponsorship** là nói với huấn luyện viên: "Bạn A sẵn sàng đá chính rồi" — tạo cơ hội cho người khác.
+
 ---
 
 ## 1. Tech Lead Role Definition

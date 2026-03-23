@@ -5,6 +5,9 @@
 - Secure coding practices
 - Input validation & output encoding
 
+## 📖 Câu chuyện đời thường
+> Bạn mở cửa hàng online. OWASP Top 10 giống như **10 cách trộm hay dùng nhất** để vào cửa hàng. **SQL Injection** giống khách nói: "cho tôi đơn 123 OR DROP TABLE orders" — nếu bạn không kiểm tra, khách xóa hết đơn hàng! **XSS** giống khách lén dán tờ rơi độc hại lên bảng thông báo cửa hàng — khách khác đọc và bị lừa. **Input validation** là bảo vệ cửa vào: kiểm tra mọi thứ khách gửi đến, không tin ai cả. Giống như quán bar kiểm tra CMND trước khi cho vào — không thể tin khách nói "tôi đủ tuổi".
+
 ---
 
 ## 1. OWASP Top 10 (2021)

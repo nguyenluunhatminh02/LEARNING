@@ -5,6 +5,9 @@
 - Backtracking template
 - When Greedy vs DP vs Backtracking
 
+## 📖 Câu chuyện đời thường
+> **Greedy** giống như đi chợ với ngân sách hạn chế: luôn chọn món rẻ nhất mà vẫn đủ dinh dưỡng — mỗi bước chọn cái tốt nhất tại thời điểm đó. Không phải lúc nào cũng cho kết quả tối ưu toàn cục, nhưng rất nhanh. **Backtracking** giống tìm đường trong mê cung: đi thử một hướng, nếu vào ngõ cụt thì quay lại thử hướng khác. Bạn không đi mò toàn bộ mê cung — khi biết rõ hướng này sai, bạn cắt bỏ luôn (pruning). Greedy cho bài đơn giản, DP cho bài tối ưu, Backtracking cho bài "liệt kê tất cả cách".
+
 ---
 
 ## 1. Greedy

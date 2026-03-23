@@ -5,6 +5,9 @@
 - Hiểu Gradient Boosting: XGBoost, LightGBM
 - Ensemble methods: Bagging, Boosting, Stacking
 
+## 📖 Câu chuyện đời thường
+> Bạn đang chọn mua điện thoại. Trong đầu bạn nghĩ: "Ngân sách > 15 triệu? → Nếu có, xem iPhone. → Nếu không, xem Samsung. Pin > 5000mAh? Camera > 108MP?" — bạn vừa tạo ra một **Decision Tree**! **Random Forest** giống như bạn hỏi 100 người bạn, mỗi người dùng tiêu chí khác nhau, rồi lấy ý kiến đa số — "túi khôn hơn một người". **Gradient Boosting** thì tinh vi hơn: người thứ 2 tập trung sửa lỗi của người thứ 1, người thứ 3 sửa lỗi người thứ 2... mỗi người sau giỏi hơn người trước một chút, cộng lại thành thiên tài.
+
 ---
 
 ## 1. Decision Tree

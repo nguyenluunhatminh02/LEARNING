@@ -5,6 +5,9 @@
 - TDD (Test-Driven Development)
 - Mocking, fixtures, test patterns
 
+## 📖 Câu chuyện đời thường
+> Bạn xây nhà và cần kiểm tra chất lượng. **Unit test** = kiểm tra từng viên gạch: có chắc không? **Integration test** = kiểm tra tường: các viên gạch kết hợp tốt không? **E2E test** = kiểm tra cả căn nhà: cửa mở được không, điện chạy không? **TDD** giống viết đề thi trước rồi mới học bài: biết câu hỏi trước, viết code để trả lời đúng. **Mocking** giống dùng đồ giả để kiểm tra: thay vì gọi ngân hàng thật, bạn dùng "ngân hàng giả" luôn trả về "thành công" — để kiểm tra logic của mình có đúng không.
+
 ---
 
 ## 1. Test Pyramid

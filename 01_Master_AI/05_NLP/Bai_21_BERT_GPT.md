@@ -5,6 +5,9 @@
 - Fine-tune pretrained models với Hugging Face
 - Áp dụng cho classification, NER, QA
 
+## 📖 Câu chuyện đời thường
+> **BERT** giống như một người đọc hiểu xuất sắc: đưa cho họ một đoạn văn có từ bị che, họ đoán được từ đó là gì (masked language model). Bạn có thể hỏi họ: "email này là spam?" hay "tên người trong câu này là gì?". **GPT** giống như một người kể chuyện tuyệt vời: bạn nói đầu câu "Hôm nay trời...", họ tiếp tục "...rất đẹp, tôi quyết định đi dạo". BERT giỏi hiểu văn bản, GPT giỏi tạo văn bản. **Fine-tuning** giống như một bác sĩ đa khoa học thêm chuyên khoa tim mạch — kiến thức nền sẵn có rồi, chỉ cần học thêm phần chuyên biệt.
+
 ---
 
 ## 1. BERT (Bidirectional Encoder Representations from Transformers)

@@ -6,6 +6,9 @@
 - Common performance pitfalls
 - PostgreSQL tuning parameters
 
+## 📖 Câu chuyện đời thường
+> Bạn lái xe từ Hà Nội vào Sài Gòn. Có 3 tuyến: đường quốc lộ, cao tốc, và đường ven biển. **Query optimizer** giống như Google Maps — nó xem xét các tuyến và chọn nhanh nhất. **EXPLAIN ANALYZE** là bạn bật chế độ "hiển thị hành trình" — thấy rõ đoạn nào kẹt xe (slow join), đoạn nào thông thoáng. **Performance pitfalls** giống như rẽ vào hẻ nhỏ mà không biết: SELECT * (lấy hết mọi thứ dù chỉ cần 2 cột), không dùng index (lái mà không xem bản đồ). **Tuning** giống chỉnh lại siếu xe: tăng RAM (shared_buffers), chỉnh cách engine đọc data (work_mem).
+
 ---
 
 ## 1. EXPLAIN ANALYZE Mastery

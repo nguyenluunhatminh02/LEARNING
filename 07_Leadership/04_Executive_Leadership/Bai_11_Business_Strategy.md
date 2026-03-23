@@ -6,6 +6,9 @@
 - Build vs buy at strategic level
 - Vendor management & negotiation
 
+## 📖 Câu chuyện đời thường
+> Bạn là chủ một doanh nghiệp nhỏ. **P&L** giống sổ thu chi gia đình: thu bao nhiêu (revenue), chi bao nhiêu (cost), còn lại bao nhiêu (profit). **Build vs Buy** giống: tự nấu cơm (tốn thời gian, kiểm soát chất lượng) hay đặt cơm hộp (nhanh, đắt, phụ thuộc người khác). **Fundraising** giống vay ngân hàng mở rộng: phải chứng minh "sẽ kiếm được gấp 10 số vay". **Vendor negotiation** giống mặc cả ở chợ: biết giá thị trường, có phương án thay thế, và sẵn sàng rời đi nếu không hợp lý.
+
 ---
 
 ## 1. P&L (Profit & Loss) for CTOs

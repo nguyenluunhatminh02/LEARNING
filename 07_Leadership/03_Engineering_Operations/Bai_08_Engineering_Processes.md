@@ -6,6 +6,9 @@
 - Blameless postmortems
 - Change management
 
+## 📖 Câu chuyện đời thường
+> **Sprint** giống tuần làm việc ở nông trại: đầu tuần lên kế hoạch (trồng gì, tưới gì), cuối tuần xem kết quả (thu hoạch được gì). **On-call** giống bác sĩ trực đêm: không phải lúc nào cũng có bệnh nhân, nhưng khi có phải xử lý ngay. **Blameless postmortem** giống hỌp rút kinh nghiệm không đổ lỗi ai: "Máy hỏng vì không bảo trì định kỳ" thay vì "tại anh A". Mục đích là sửa hệ thống, không phạt người. **Change management** = khi đổi công nghệ mới, cần thuyết phục team vì sao, hướng dẫn cách làm mới, không ép thay đổi đột ngột.
+
 ---
 
 ## 1. Sprint Management

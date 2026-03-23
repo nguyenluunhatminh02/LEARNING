@@ -5,6 +5,9 @@
 - Tokenization: BPE, SentencePiece
 - Train mini-GPT từ đầu (nanoGPT)
 
+## 📖 Câu chuyện đời thường
+> Hãy tưởng tượng một người đã đọc **toàn bộ internet** — mọi cuốn sách, mọi bài báo, mọi cuộc trò chuyện. Giờ bạn nói một nửa câu, họ đoán từ tiếp theo dựa trên tất cả những gì đã đọc. Đó là bản chất của **LLM** — dự đoán từ tiếp theo, nhưng vì đã đọc quá nhiều nên có vẻ "hiểu" mọi thứ. **Tokenization** giống như cách bạn bày chữ trong Scrabble: không phải mỗi ô là 1 chữ cái mà có thể là cả một từ hoặc một phần từ (sub-word). Tham số của LLM giống như số synapse trong não — GPT-4 có hàng tỷ "kết nối", nên nó có thể xử lý rất nhiều loại câu hỏi.
+
 ---
 
 ## 1. LLM Architecture

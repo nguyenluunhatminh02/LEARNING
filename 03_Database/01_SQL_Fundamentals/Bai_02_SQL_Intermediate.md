@@ -6,6 +6,9 @@
 - GROUP BY advanced, HAVING
 - Set operations: UNION, INTERSECT, EXCEPT
 
+## 📖 Câu chuyện đời thường
+> Bạn có 2 danh sách: "Nhân viên" và "Phòng ban". **INNER JOIN** là ghép tên nhân viên với phòng ban của họ — ai chưa có phòng thì bỏ qua. **LEFT JOIN** là liệt kê TẤT CẢ nhân viên, ai chưa có phòng thì ghi "chưa xác định". **Subquery** giống như bạn hỏi: "Tìm nhân viên có lương cao hơn trung bình" — trước tiên phải tính trung bình (đó là subquery), rồi mới so sánh. **GROUP BY** giống như xếp nhân viên thành nhóm theo phòng ban rồi đếm: "Phòng kỹ thuật 10 người, phòng kinh doanh 8 người". **HAVING** là lọc tiếp: "chỉ hiển phòng có trên 5 người".
+
 ---
 
 ## 1. JOINs

@@ -5,6 +5,9 @@
 - Neo4j: graph model, Cypher queries
 - Khi nào dùng từng loại
 
+## 📖 Câu chuyện đời thường
+> **Cassandra** giống như hệ thống ghi chép của một mạng lưới cảm biến: hàng triệu thiết bị gửi data liên tục, chỉ cần ghi nhanh và đọc theo thời gian. Không cần JOIN phức tạp, chỉ cần: "lấy data cảm biến X từ 9h-10h hôm nay". **Neo4j** (Graph DB) thì hoàn toàn khác: giống mạng xã hội. Mỗi người là một điểm (node), mối quan hệ là đường nối (edge). Bạn có thể hỏi: "Bạn của bạn tôi là ai?" hoặc "Từ người này đến người kia qua mấy lần giới thiệu?" — các câu hỏi mà SQL phải viết 10 dòng JOIN, Graph DB trả lời trong 1 dòng.
+
 ---
 
 ## PART A: Apache Cassandra

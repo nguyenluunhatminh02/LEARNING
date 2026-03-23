@@ -5,6 +5,9 @@
 - Technical debt identification & management
 - Refactoring strategy
 
+## 📖 Câu chuyện đời thường
+> **Code Review** giống kiểm tra bài luận cho bạn: không phải phê phán mà là giúp bạn viết tốt hơn. "Câu này có thể rõ hơn", "bạn quên kết luận" — cách góp ý xây dựng. **Technical Debt** giống nợ thẻ tín dụng: bạn code nhanh để ship kịp deadline ("vay nợ"), nhưng nếu không trả (refactor), lãi chồng chất — mỗi tính năng mới tốn gấp đôi thời gian. **Refactoring** giống dọn nhà: không thay đổi chức năng (nhà vẫn để ở) mà sắp xếp lại cho gọn gàng, dễ tìm hơn.
+
 ---
 
 ## 1. Code Review Best Practices

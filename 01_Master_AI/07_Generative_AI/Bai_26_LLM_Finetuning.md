@@ -5,6 +5,9 @@
 - Parameter-Efficient Fine-Tuning: LoRA, QLoRA
 - RLHF & DPO alignment
 
+## 📖 Câu chuyện đời thường
+> Bạn thuê một nhân viên mới đã có kinh nghiệm 10 năm (pretrained model). Bạn không cần dạy họ lập trình từ đầu, chỉ cần hướng dẫn văn hóa công ty và quy trình riêng — đó là **SFT** (Supervised Fine-Tuning). **LoRA** giống như bạn chỉ dán thêm vài tờ note nhỏ lên cuốn sách giáo khoa cũ — không viết lại cả cuốn, chỉ thêm bổ sung thông tin mới (rất tiết kiệm bộ nhớ). **QLoRA** là dùng cuốn sách phiên bản rút gọn + note nhỏ — tiết kiệm hơn nữa. **RLHF** là giai đoạn "dạy văn phòng" — người dùng nói câu trả lời nào hay hơn, AI tự điều chỉnh phong cách.
+
 ---
 
 ## 1. Supervised Fine-Tuning (SFT)

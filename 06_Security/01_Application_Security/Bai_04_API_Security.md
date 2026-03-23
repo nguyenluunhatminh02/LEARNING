@@ -6,6 +6,9 @@
 - API authentication strategies
 - CORS configuration
 
+## 📖 Câu chuyện đời thường
+> API của bạn giống cửa sổ giao dịch ngân hàng. **Rate limiting** = giới hạn mỗi người chỉ được giao dịch 100 lần/ngày — chống lãng phí và tấn công. **Input validation** = kiểm tra phiếu gửi tiền: số tiền hợp lệ không? tài khoản có tồn tại không? **CORS** giống quy định ai được gọi điện vào quầy: chỉ chi nhánh được ủy quyền mới gọi được, người lạ bị từ chối. Mỗi lỗ hổng API giống một lỗ thủng trên tường ngân hàng — hacker sẽ tìm thấy và khai thác nếu bạn không vá.
+
 ---
 
 ## 1. Rate Limiting

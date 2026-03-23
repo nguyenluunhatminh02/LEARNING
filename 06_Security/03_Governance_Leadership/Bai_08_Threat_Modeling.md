@@ -6,6 +6,9 @@
 - Attack trees & risk assessment
 - Defense in depth architecture
 
+## 📖 Câu chuyện đời thường
+> Bạn xây nhà mới và nghĩ: "kẻ trộm có thể vào bằng cách nào?" **STRIDE** giúp bạn nghĩ có hệ thống: **S**poofing (giả dạng người nhà), **T**ampering (phá khóa), **R**epudiation (chối "tôi không vào"), **I**nformation disclosure (nhìn qua cửa sổ), **D**enial of service (chặn cửa), **E**levation of privilege (người giúp việc lấy chìa khóa chủ). **Defense in Depth** là bảo vệ nhiều lớp: hàng rào + khóa cửa + camera + két sắt — dù phá được 1 lớp vẫn còn lớp khác. **Attack tree** giống sơ đồ các kịch bản: trộm vào bằng cửa trước (40%), cửa sổ (30%), mái (10%)...
+
 ---
 
 ## 1. Threat Modeling với STRIDE

@@ -6,6 +6,9 @@
 - Secrets management trong K8s
 - Image scanning & runtime security
 
+## 📖 Câu chuyện đời thường
+> **Container** giống như căn hộ trong chung cư. Mỗi ứng dụng sống trong căn hộ riêng, không nhìn thấy căn khác. **Docker security** = không cho người thuê khóa mỗi căn chạy bằng quyền admin (root), chỉ cho vào các tầng được phép. **K8s RBAC** = quản lý ai được vào tầng nào: nhân viên bảo trì vào hầm xe, cư dân vào căn mình, quản lý vào mọi nơi. **Image scanning** giống kiểm tra an ninh trước khi dọn vào: xem căn hộ có vấn đề gì không (vulnerabilities). **Secrets management** = không dán mật khẩu WiFi lên tường mà cất trong két sắt.
+
 ---
 
 ## 1. Docker Security

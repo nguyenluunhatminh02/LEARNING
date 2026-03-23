@@ -6,6 +6,9 @@
 - Transfer Learning
 - Mixed Precision Training
 
+## 📖 Câu chuyện đời thường
+> Bạn huấn luyện một đội bóng đá. **Dropout** giống như mỗi buổi tập cho nghỉ ngẫu nhiên vài cầu thủ — buộc những người còn lại tự lập hơn thay vì phụ thuộc một ngôi sao. **Batch Norm** là việc bảo đảm mọi cầu thủ được khởi động đều trước trận — không ai bắt đầu từ trạng thái mệt mỏi quá khác biệt. **Data Augmentation** giống như tập với nhiều đối thủ khác nhau: đội mạnh, đội yếu, sân khô, sân ướt — giúp đội bạn thích nghi tốt hơn. **Transfer Learning** là khi bạn tuyển một cầu thủ giàu kinh nghiệm từ đội khác — chỉ cần dạy thêm chiến thuật của mình, không cần dạy đá bóng lại từ đầu.
+
 ---
 
 ## 1. Regularization

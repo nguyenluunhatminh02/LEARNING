@@ -6,6 +6,9 @@
 - CI/CD pipeline
 - Infrastructure as Code (Terraform)
 
+## 📖 Câu chuyện đời thường
+> **Cloud** giống như thuê văn phòng thay vì mua nhà. Bạn không cần mua server vật lý, chỉ thuê bao nhiêu dùng bấy nhiêu (pay-as-you-go). **Kubernetes** giống một quản lý tòa nhà thông minh: tự động phân bổ phòng cho công ty (container), nếu phòng hỏng thì chuyển sang phòng khác, đông người thì mở thêm tầng. **CI/CD** giống dây chuyền sản xuất tự động: code xong → tự động kiểm tra chất lượng → đóng gói → giao cho khách. Không cần ai bấm nút thủ công. **Terraform** giống như bản vẽ kiến trúc nhà: bạn mô tả "cần 3 server, 1 database, 1 load balancer" và máy sẽ xây đúng như bản vẽ.
+
 ---
 
 ## 1. Cloud Computing Models

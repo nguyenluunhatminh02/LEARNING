@@ -6,6 +6,9 @@
 - CRUD operations
 - Data types, constraints
 
+## 📖 Câu chuyện đời thường
+> Database giống như **tủ hồ sơ** của công ty. Mỗi ngăn kéo là một bảng (table), mỗi hồ sơ là một hàng (row). **DDL** (CREATE TABLE) giống như đóng tủ mới và dán nhãn các ngăn. **DML** (INSERT, UPDATE, DELETE) là thêm, sửa, xóa hồ sơ. **Constraints** giống như quy tắc của phòng lưu trữ: "mỗi nhân viên phải có mã duy nhất" (PRIMARY KEY), "không được để trống tên" (NOT NULL). SELECT giống như bạn nói: "tìm cho tôi hồ sơ của tất cả nhân viên phòng kỹ thuật, sắp xếp theo lương giảm dần".
+
 ---
 
 ## 1. Database là gì?

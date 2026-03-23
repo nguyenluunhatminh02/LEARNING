@@ -6,6 +6,9 @@
 - CTO vs VP Engineering roles
 - Scaling engineering organizations
 
+## 📖 Câu chuyện đời thường
+> **CTO** giống kiến trúc sư trưởng: nhìn xa, chọn công nghệ, vẽ tầm nhìn "tòa nhà 5 năm nữa sẽ ra sao". **VP Engineering** giống chỉ huy công trường: đảm bảo xây xong đúng hạn, đội ngũ khỏe, quy trình trơn tru. **Org design** giống thiết kế sơ đồ công ty: 10 người thì 1 đội là đủ, 100 người cần chia nhiều đội nhỏ, mỗi đội có trưởng nhóm. **Scaling** giống mở chuỗi cửa hàng: không thể quản lý 50 cửa hàng giống 1 cửa hàng — cần hệ thống, quy trình, và con người tự vận hành.
+
 ---
 
 ## 1. CTO vs VP Engineering

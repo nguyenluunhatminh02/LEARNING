@@ -5,6 +5,9 @@
 - Trade-off analysis frameworks
 - RFC process & technical proposals
 
+## 📖 Câu chuyện đời thường
+> Bạn mua nhà — quyết định lớn nhất đời. Bạn không chọn bừa mà ghi lại: "Tại sao chọn Quận 7? Vì gần công ty, trường học. Tại sao không chọn Quận 2? Giá đất cao hơn 30%" — đó là **ADR** (Architecture Decision Record). **Trade-off analysis** là cân nhắc: nhà lớn thì đắt, nhà nhỏ thì chật, xa trung tâm thì rẻ nhưng tốn thời gian. **RFC** giống việc bạn gửi bản phân tích cho cả gia đình góp ý trước khi quyết định. Staff Engineer cũng vậy: quyết định kiến trúc ảnh hưởng nhiều năm, cần ghi chép và cân nhắc kỹ.
+
 ---
 
 ## 1. Architecture Decision Records (ADR)

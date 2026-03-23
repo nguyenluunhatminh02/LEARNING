@@ -5,6 +5,9 @@
 - Implement forward & backward propagation bằng NumPy
 - Hiểu activation functions & loss functions
 
+## 📖 Câu chuyện đời thường
+> Bạn làm việc ở một công ty và cần xét duyệt một dự án. Đầu tiên, bộ phận kỹ thuật đánh giá tính khả thi (layer 1). Tiếp theo, bộ phận tài chính đánh giá ngân sách (layer 2). Cuối cùng, giám đốc quyết định Yes/No (output layer). Mỗi bộ phận nhận thông tin từ bộ phận trước và thêm góc nhìn của mình — đó chính là cách **Neural Network** hoạt động. **Backpropagation** giống như khi dự án thất bại, giám đốc nói: "Sai ở đâu?" — lỗi được truy ngược từ output về từng layer để mỗi bộ phận tự sửa cách đánh giá của mình.
+
 ---
 
 ## 1. Perceptron → Multi-Layer Perceptron
